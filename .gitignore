@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# Model artifacts
+artifacts_latest/
+data/
+
+# Environment
+.env
+venv/
+ddi_env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Render deployment
+render.yaml
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Misc
+*.zip
+*.tar.gz
