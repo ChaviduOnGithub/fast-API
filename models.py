@@ -31,3 +31,8 @@ class EdgeDecoder(nn.Module):
             nn.Dropout(dropout),
             nn.Linear(mlp_hidden, 1),
         )
+
+    def forward(self, z, edge_index):
+        src, dst = edge_index
+        h = torch.cat([z[src], z[dst]], dim=1)
+        return self.net(h).squeeze()
