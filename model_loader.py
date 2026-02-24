@@ -89,9 +89,7 @@ def predict(drug_a: str, drug_b: str) -> dict:
             "drug_a_properties": props_a,
             "drug_b_properties": props_b,
             "drug_a_smiles": smiles_a,
-            "drug_b_smiles": smiles_b,
-            "drug_a_neighbors": [],
-            "drug_b_neighbors": []
+            "drug_b_smiles": smiles_b
         }
     # Removed OGB dataset loading and edge_index logic; only using precomputed artifacts
     i = drug_to_node[drug_a]

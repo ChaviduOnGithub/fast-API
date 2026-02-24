@@ -26,8 +26,7 @@ class DDIResponse(BaseModel):
     drug_b_properties: MolecularProperties
     drug_a_smiles: str
     drug_b_smiles: str
-    drug_a_neighbors: list[str]
-    drug_b_neighbors: list[str]
+    # Neighbors removed from response
 
 class DrugInfo(BaseModel):
     drugId: str
@@ -95,6 +94,5 @@ def predict_ddi(req: DDIRequest):
         "drug_b_properties": result["drug_b_properties"],
         "drug_a_smiles": result["drug_a_smiles"],
         "drug_b_smiles": result["drug_b_smiles"],
-        "drug_a_neighbors": result["drug_a_neighbors"],
-        "drug_b_neighbors": result["drug_b_neighbors"]
+        # Neighbors removed from response
     }
