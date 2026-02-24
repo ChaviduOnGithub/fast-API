@@ -1,0 +1,4268 @@
+drug_id,drug_name
+DB00001,Lepirudin
+DB00002,Cetuximab
+DB00004,Denileukin diftitox
+DB00005,Etanercept
+DB00006,Bivalirudin
+DB00007,Leuprolide
+DB00008,Peginterferon alfa-2a
+DB00009,Alteplase
+DB00011,Interferon alfa-n1
+DB00012,Darbepoetin alfa
+DB00013,Urokinase
+DB00014,Goserelin
+DB00015,Reteplase
+DB00016,Erythropoietin
+DB00017,Salmon calcitonin
+DB00018,Interferon alfa-n3
+DB00019,Pegfilgrastim
+DB00020,Sargramostim
+DB00022,Peginterferon alfa-2b
+DB00023,Asparaginase Escherichia coli
+DB00024,Thyrotropin alfa
+DB00025,"Antihemophilic factor, human recombinant"
+DB00026,Anakinra
+DB00027,Gramicidin D
+DB00028,Human immunoglobulin G
+DB00029,Anistreplase
+DB00030,Insulin human
+DB00031,Tenecteplase
+DB00033,Interferon gamma-1b
+DB00034,"Interferon alfa-2a, Recombinant"
+DB00035,Desmopressin
+DB00036,Coagulation factor VIIa Recombinant Human
+DB00039,Palifermin
+DB00040,Glucagon
+DB00041,Aldesleukin
+DB00042,Botulinum Toxin Type B
+DB00043,Omalizumab
+DB00046,Insulin lispro
+DB00047,Insulin glargine
+DB00048,Collagenase clostridium histolyticum
+DB00049,Rasburicase
+DB00051,Adalimumab
+DB00052,Somatotropin
+DB00054,Abciximab
+DB00055,Drotrecogin alfa
+DB00056,Gemtuzumab ozogamicin
+DB00057,Indium In-111 satumomab pendetide
+DB00058,Alpha-1-proteinase inhibitor
+DB00059,Pegaspargase
+DB00060,Interferon beta-1a
+DB00061,Pegademase
+DB00063,Eptifibatide
+DB00065,Infliximab
+DB00066,Follitropin
+DB00067,Vasopressin
+DB00068,Interferon beta-1b
+DB00069,Interferon alfacon-1
+DB00070,Hyaluronidase (ovine)
+DB00071,Insulin pork
+DB00072,Trastuzumab
+DB00073,Rituximab
+DB00074,Basiliximab
+DB00075,Muromonab
+DB00076,Digoxin Immune Fab (Ovine)
+DB00078,Ibritumomab tiuxetan
+DB00080,Daptomycin
+DB00081,Tositumomab
+DB00082,Pegvisomant
+DB00083,Botulinum toxin type A
+DB00085,Pancrelipase
+DB00086,Streptokinase
+DB00087,Alemtuzumab
+DB00089,Capromab pendetide
+DB00091,Cyclosporine
+DB00092,Alefacept
+DB00093,Felypressin
+DB00095,Efalizumab
+DB00098,Antithymocyte immunoglobulin (rabbit)
+DB00099,Filgrastim
+DB00100,Coagulation Factor IX (Recombinant)
+DB00103,Agalsidase beta
+DB00104,Octreotide
+DB00105,Interferon alfa-2b
+DB00107,Oxytocin
+DB00108,Natalizumab
+DB00109,Enfuvirtide
+DB00110,Palivizumab
+DB00111,Daclizumab
+DB00112,Bevacizumab
+DB00113,Technetium Tc-99m arcitumomab
+DB00115,Cyanocobalamin
+DB00116,Tetrahydrofolic acid
+DB00118,Ademetionine
+DB00120,Phenylalanine
+DB00122,Choline
+DB00126,Ascorbic acid
+DB00127,Spermine
+DB00130,L-Glutamine
+DB00132,alpha-Linolenic acid
+DB00134,Methionine
+DB00136,Calcitriol
+DB00139,Succinic acid
+DB00140,Riboflavin
+DB00142,Glutamic acid
+DB00145,Glycine
+DB00146,Calcifediol
+DB00150,Tryptophan
+DB00152,Thiamine
+DB00153,Ergocalciferol
+DB00155,Citrulline
+DB00158,Folic acid
+DB00159,Icosapent
+DB00162,Vitamin A
+DB00163,Vitamin E
+DB00165,Pyridoxine
+DB00166,Lipoic acid
+DB00168,Aspartame
+DB00169,Cholecalciferol
+DB00170,Menadione
+DB00173,Adenine
+DB00175,Pravastatin
+DB00176,Fluvoxamine
+DB00177,Valsartan
+DB00178,Ramipril
+DB00179,Masoprocol
+DB00180,Flunisolide
+DB00181,Baclofen
+DB00182,Amphetamine
+DB00184,Nicotine
+DB00185,Cevimeline
+DB00186,Lorazepam
+DB00187,Esmolol
+DB00188,Bortezomib
+DB00189,Ethchlorvynol
+DB00190,Carbidopa
+DB00191,Phentermine
+DB00193,Tramadol
+DB00194,Vidarabine
+DB00195,Betaxolol
+DB00196,Fluconazole
+DB00197,Troglitazone
+DB00198,Oseltamivir
+DB00199,Erythromycin
+DB00200,Hydroxocobalamin
+DB00201,Caffeine
+DB00202,Succinylcholine
+DB00203,Sildenafil
+DB00204,Dofetilide
+DB00205,Pyrimethamine
+DB00206,Reserpine
+DB00207,Azithromycin
+DB00208,Ticlopidine
+DB00209,Trospium
+DB00210,Adapalene
+DB00211,Midodrine
+DB00212,Remikiren
+DB00213,Pantoprazole
+DB00214,Torasemide
+DB00215,Citalopram
+DB00216,Eletriptan
+DB00217,Bethanidine
+DB00218,Moxifloxacin
+DB00219,Oxyphenonium
+DB00220,Nelfinavir
+DB00221,Isoetharine
+DB00222,Glimepiride
+DB00223,Diflorasone
+DB00224,Indinavir
+DB00225,Gadodiamide
+DB00226,Guanadrel
+DB00227,Lovastatin
+DB00228,Enflurane
+DB00229,Cefotiam
+DB00230,Pregabalin
+DB00231,Temazepam
+DB00232,Methyclothiazide
+DB00233,Aminosalicylic acid
+DB00234,Reboxetine
+DB00235,Milrinone
+DB00236,Pipobroman
+DB00237,Butabarbital
+DB00238,Nevirapine
+DB00239,Oxiconazole
+DB00240,Alclometasone
+DB00241,Butalbital
+DB00242,Cladribine
+DB00243,Ranolazine
+DB00244,Mesalazine
+DB00245,Benzatropine
+DB00246,Ziprasidone
+DB00247,Methysergide
+DB00248,Cabergoline
+DB00250,Dapsone
+DB00252,Phenytoin
+DB00253,Medrysone
+DB00254,Doxycycline
+DB00255,Diethylstilbestrol
+DB00256,Lymecycline
+DB00257,Clotrimazole
+DB00258,Calcium acetate
+DB00259,Sulfanilamide
+DB00260,Cycloserine
+DB00261,Anagrelide
+DB00262,Carmustine
+DB00263,Sulfisoxazole
+DB00264,Metoprolol
+DB00266,Dicoumarol
+DB00267,Cefmenoxime
+DB00268,Ropinirole
+DB00269,Chlorotrianisene
+DB00270,Isradipine
+DB00271,Diatrizoate
+DB00273,Topiramate
+DB00274,Cefmetazole
+DB00275,Olmesartan
+DB00276,Amsacrine
+DB00277,Theophylline
+DB00278,Argatroban
+DB00279,Liothyronine
+DB00280,Disopyramide
+DB00281,Lidocaine
+DB00282,Pamidronic acid
+DB00283,Clemastine
+DB00284,Acarbose
+DB00285,Venlafaxine
+DB00286,Conjugated estrogens
+DB00287,Travoprost
+DB00288,Amcinonide
+DB00289,Atomoxetine
+DB00290,Bleomycin
+DB00291,Chlorambucil
+DB00292,Etomidate
+DB00293,Raltitrexed
+DB00294,Etonogestrel
+DB00295,Morphine
+DB00296,Ropivacaine
+DB00297,Bupivacaine
+DB00298,Dapiprazole
+DB00299,Penciclovir
+DB00300,Tenofovir disoproxil
+DB00301,Flucloxacillin
+DB00302,Tranexamic acid
+DB00303,Ertapenem
+DB00304,Desogestrel
+DB00305,Mitomycin
+DB00306,Talbutal
+DB00307,Bexarotene
+DB00308,Ibutilide
+DB00309,Vindesine
+DB00310,Chlorthalidone
+DB00311,Ethoxzolamide
+DB00312,Pentobarbital
+DB00313,Valproic acid
+DB00314,Capreomycin
+DB00315,Zolmitriptan
+DB00316,Acetaminophen
+DB00317,Gefitinib
+DB00318,Codeine
+DB00319,Piperacillin
+DB00320,Dihydroergotamine
+DB00321,Amitriptyline
+DB00322,Floxuridine
+DB00323,Tolcapone
+DB00324,Fluorometholone
+DB00325,Nitroprusside
+DB00326,Calcium glucoheptonate
+DB00327,Hydromorphone
+DB00328,Indomethacin
+DB00330,Ethambutol
+DB00331,Metformin
+DB00332,Ipratropium
+DB00333,Methadone
+DB00334,Olanzapine
+DB00335,Atenolol
+DB00337,Pimecrolimus
+DB00338,Omeprazole
+DB00339,Pyrazinamide
+DB00340,Metixene
+DB00341,Cetirizine
+DB00342,Terfenadine
+DB00343,Diltiazem
+DB00344,Protriptyline
+DB00345,Aminohippuric acid
+DB00346,Alfuzosin
+DB00347,Trimethadione
+DB00349,Clobazam
+DB00350,Minoxidil
+DB00351,Megestrol acetate
+DB00352,Tioguanine
+DB00353,Methylergometrine
+DB00354,Buclizine
+DB00355,Aztreonam
+DB00356,Chlorzoxazone
+DB00357,Aminoglutethimide
+DB00358,Mefloquine
+DB00359,Sulfadiazine
+DB00360,Sapropterin
+DB00361,Vinorelbine
+DB00362,Anidulafungin
+DB00363,Clozapine
+DB00364,Sucralfate
+DB00365,Grepafloxacin
+DB00366,Doxylamine
+DB00367,Levonorgestrel
+DB00368,Norepinephrine
+DB00369,Cidofovir
+DB00370,Mirtazapine
+DB00371,Meprobamate
+DB00372,Thiethylperazine
+DB00373,Timolol
+DB00374,Treprostinil
+DB00375,Colestipol
+DB00376,Trihexyphenidyl
+DB00377,Palonosetron
+DB00378,Dydrogesterone
+DB00379,Mexiletine
+DB00380,Dexrazoxane
+DB00381,Amlodipine
+DB00382,Tacrine
+DB00383,Oxyphencyclimine
+DB00384,Triamterene
+DB00385,Valrubicin
+DB00387,Procyclidine
+DB00388,Phenylephrine
+DB00389,Carbimazole
+DB00390,Digoxin
+DB00391,Sulpiride
+DB00392,Profenamine
+DB00393,Nimodipine
+DB00394,Beclomethasone dipropionate
+DB00395,Carisoprodol
+DB00396,Progesterone
+DB00397,Phenylpropanolamine
+DB00398,Sorafenib
+DB00399,Zoledronic acid
+DB00400,Griseofulvin
+DB00401,Nisoldipine
+DB00402,Eszopiclone
+DB00404,Alprazolam
+DB00405,Dexbrompheniramine
+DB00407,Ardeparin
+DB00408,Loxapine
+DB00409,Remoxipride
+DB00410,Mupirocin
+DB00411,Carbamoylcholine
+DB00412,Rosiglitazone
+DB00413,Pramipexole
+DB00414,Acetohexamide
+DB00415,Ampicillin
+DB00416,Metocurine iodide
+DB00417,Phenoxymethylpenicillin
+DB00418,Secobarbital
+DB00420,Promazine
+DB00421,Spironolactone
+DB00422,Methylphenidate
+DB00423,Methocarbamol
+DB00424,Hyoscyamine
+DB00425,Zolpidem
+DB00426,Famciclovir
+DB00427,Triprolidine
+DB00428,Streptozocin
+DB00429,Carboprost tromethamine
+DB00430,Cefpiramide
+DB00431,Lindane
+DB00432,Trifluridine
+DB00433,Prochlorperazine
+DB00434,Cyproheptadine
+DB00435,Nitric Oxide
+DB00436,Bendroflumethiazide
+DB00437,Allopurinol
+DB00438,Ceftazidime
+DB00439,Cerivastatin
+DB00440,Trimethoprim
+DB00441,Gemcitabine
+DB00442,Entecavir
+DB00443,Betamethasone
+DB00444,Teniposide
+DB00445,Epirubicin
+DB00446,Chloramphenicol
+DB00447,Loracarbef
+DB00448,Lansoprazole
+DB00449,Dipivefrin
+DB00450,Droperidol
+DB00451,Levothyroxine
+DB00452,Framycetin
+DB00453,Clomocycline
+DB00454,Meperidine
+DB00455,Loratadine
+DB00456,Cefalotin
+DB00457,Prazosin
+DB00458,Imipramine
+DB00459,Acitretin
+DB00460,Verteporfin
+DB00461,Nabumetone
+DB00462,Methscopolamine bromide
+DB00463,Metharbital
+DB00465,Ketorolac
+DB00467,Enoxacin
+DB00468,Quinine
+DB00469,Tenoxicam
+DB00470,Dronabinol
+DB00471,Montelukast
+DB00472,Fluoxetine
+DB00474,Methohexital
+DB00475,Chlordiazepoxide
+DB00476,Duloxetine
+DB00477,Chlorpromazine
+DB00478,Rimantadine
+DB00479,Amikacin
+DB00480,Lenalidomide
+DB00481,Raloxifene
+DB00482,Celecoxib
+DB00483,Gallamine triethiodide
+DB00484,Brimonidine
+DB00485,Dicloxacillin
+DB00486,Nabilone
+DB00487,Pefloxacin
+DB00488,Altretamine
+DB00489,Sotalol
+DB00490,Buspirone
+DB00491,Miglitol
+DB00492,Fosinopril
+DB00493,Cefotaxime
+DB00494,Entacapone
+DB00495,Zidovudine
+DB00496,Darifenacin
+DB00497,Oxycodone
+DB00498,Phenindione
+DB00499,Flutamide
+DB00500,Tolmetin
+DB00501,Cimetidine
+DB00502,Haloperidol
+DB00503,Ritonavir
+DB00504,Levallorphan
+DB00505,Tridihexethyl
+DB00508,Triflupromazine
+DB00511,Acetyldigitoxin
+DB00512,Vancomycin
+DB00513,Aminocaproic acid
+DB00514,Dextromethorphan
+DB00515,Cisplatin
+DB00516,Bentoquatam
+DB00517,Anisotropine methylbromide
+DB00518,Albendazole
+DB00519,Trandolapril
+DB00520,Caspofungin
+DB00521,Carteolol
+DB00523,Alitretinoin
+DB00524,Metolazone
+DB00526,Oxaliplatin
+DB00527,Cinchocaine
+DB00528,Lercanidipine
+DB00529,Foscarnet
+DB00530,Erlotinib
+DB00531,Cyclophosphamide
+DB00532,Mephenytoin
+DB00533,Rofecoxib
+DB00535,Cefdinir
+DB00536,Guanidine
+DB00537,Ciprofloxacin
+DB00539,Toremifene
+DB00540,Nortriptyline
+DB00541,Vincristine
+DB00542,Benazepril
+DB00543,Amoxapine
+DB00544,Fluorouracil
+DB00545,Pyridostigmine
+DB00546,Adinazolam
+DB00547,Desoximetasone
+DB00548,Azelaic acid
+DB00549,Zafirlukast
+DB00550,Propylthiouracil
+DB00551,Acetohydroxamic acid
+DB00552,Pentostatin
+DB00553,Methoxsalen
+DB00554,Piroxicam
+DB00555,Lamotrigine
+DB00556,Perflutren
+DB00557,Hydroxyzine
+DB00558,Zanamivir
+DB00559,Bosentan
+DB00560,Tigecycline
+DB00561,Doxapram
+DB00562,Benzthiazide
+DB00563,Methotrexate
+DB00564,Carbamazepine
+DB00565,Cisatracurium
+DB00566,Succimer
+DB00567,Cephalexin
+DB00568,Cinnarizine
+DB00569,Fondaparinux
+DB00570,Vinblastine
+DB00571,Propranolol
+DB00572,Atropine
+DB00573,Fenoprofen
+DB00574,Fenfluramine
+DB00575,Clonidine
+DB00576,Sulfamethizole
+DB00577,Valaciclovir
+DB00578,Carbenicillin
+DB00579,Mazindol
+DB00580,Valdecoxib
+DB00581,Lactulose
+DB00582,Voriconazole
+DB00583,Levocarnitine
+DB00584,Enalapril
+DB00585,Nizatidine
+DB00586,Diclofenac
+DB00588,Fluticasone propionate
+DB00589,Lisuride
+DB00590,Doxazosin
+DB00591,Fluocinolone acetonide
+DB00592,Piperazine
+DB00593,Ethosuximide
+DB00594,Amiloride
+DB00595,Oxytetracycline
+DB00596,Ulobetasol
+DB00597,Gadoteridol
+DB00598,Labetalol
+DB00599,Thiopental
+DB00601,Linezolid
+DB00602,Ivermectin
+DB00603,Medroxyprogesterone acetate
+DB00604,Cisapride
+DB00605,Sulindac
+DB00606,Cyclothiazide
+DB00607,Nafcillin
+DB00608,Chloroquine
+DB00609,Ethionamide
+DB00610,Metaraminol
+DB00611,Butorphanol
+DB00612,Bisoprolol
+DB00613,Amodiaquine
+DB00614,Furazolidone
+DB00615,Rifabutin
+DB00616,Candoxatril
+DB00617,Paramethadione
+DB00618,Demeclocycline
+DB00619,Imatinib
+DB00620,Triamcinolone
+DB00621,Oxandrolone
+DB00622,Nicardipine
+DB00623,Fluphenazine
+DB00624,Testosterone
+DB00625,Efavirenz
+DB00626,Bacitracin
+DB00627,Niacin
+DB00628,Clorazepic acid
+DB00629,Guanabenz
+DB00630,Alendronic acid
+DB00631,Clofarabine
+DB00633,Dexmedetomidine
+DB00634,Sulfacetamide
+DB00635,Prednisone
+DB00636,Clofibrate
+DB00637,Astemizole
+DB00640,Adenosine
+DB00641,Simvastatin
+DB00642,Pemetrexed
+DB00643,Mebendazole
+DB00644,Gonadorelin
+DB00645,Dyclonine
+DB00646,Nystatin
+DB00647,Dextropropoxyphene
+DB00648,Mitotane
+DB00649,Stavudine
+DB00650,Leucovorin
+DB00651,Dyphylline
+DB00652,Pentazocine
+DB00653,Magnesium sulfate
+DB00654,Latanoprost
+DB00655,Estrone
+DB00656,Trazodone
+DB00657,Mecamylamine
+DB00658,Sevelamer
+DB00660,Metaxalone
+DB00661,Verapamil
+DB00662,Trimethobenzamide
+DB00663,Flumethasone
+DB00664,Sulfametopyrazine
+DB00665,Nilutamide
+DB00666,Nafarelin
+DB00668,Epinephrine
+DB00669,Sumatriptan
+DB00670,Pirenzepine
+DB00671,Cefixime
+DB00672,Chlorpropamide
+DB00673,Aprepitant
+DB00674,Galantamine
+DB00675,Tamoxifen
+DB00677,Isoflurophate
+DB00678,Losartan
+DB00679,Thioridazine
+DB00680,Moricizine
+DB00681,Amphotericin B
+DB00682,Warfarin
+DB00683,Midazolam
+DB00684,Tobramycin
+DB00685,Trovafloxacin
+DB00686,Pentosan polysulfate
+DB00687,Fludrocortisone
+DB00688,Mycophenolate mofetil
+DB00689,Cephaloglycin
+DB00690,Flurazepam
+DB00691,Moexipril
+DB00692,Phentolamine
+DB00693,Fluorescein
+DB00694,Daunorubicin
+DB00695,Furosemide
+DB00696,Ergotamine
+DB00697,Tizanidine
+DB00698,Nitrofurantoin
+DB00699,Nicergoline
+DB00700,Eplerenone
+DB00701,Amprenavir
+DB00703,Methazolamide
+DB00704,Naltrexone
+DB00705,Delavirdine
+DB00706,Tamsulosin
+DB00707,Porfimer sodium
+DB00708,Sufentanil
+DB00709,Lamivudine
+DB00710,Ibandronate
+DB00711,Diethylcarbamazine
+DB00712,Flurbiprofen
+DB00713,Oxacillin
+DB00714,Apomorphine
+DB00715,Paroxetine
+DB00716,Nedocromil
+DB00717,Norethisterone
+DB00718,Adefovir dipivoxil
+DB00719,Azatadine
+DB00720,Clodronic acid
+DB00721,Procaine
+DB00722,Lisinopril
+DB00723,Methoxamine
+DB00724,Imiquimod
+DB00725,Homatropine methylbromide
+DB00726,Trimipramine
+DB00727,Nitroglycerin
+DB00728,Rocuronium
+DB00730,Thiabendazole
+DB00731,Nateglinide
+DB00732,Atracurium besylate
+DB00733,Pralidoxime
+DB00734,Risperidone
+DB00736,Esomeprazole
+DB00737,Meclizine
+DB00738,Pentamidine
+DB00739,Hetacillin
+DB00740,Riluzole
+DB00741,Hydrocortisone
+DB00742,Mannitol
+DB00743,Gadobenic acid
+DB00744,Zileuton
+DB00745,Modafinil
+DB00746,Deferoxamine
+DB00747,Scopolamine
+DB00748,Carbinoxamine
+DB00749,Etodolac
+DB00750,Prilocaine
+DB00751,Epinastine
+DB00752,Tranylcypromine
+DB00753,Isoflurane
+DB00754,Ethotoin
+DB00755,Tretinoin
+DB00757,Dolasetron
+DB00758,Clopidogrel
+DB00759,Tetracycline
+DB00760,Meropenem
+DB00761,Potassium chloride
+DB00762,Irinotecan
+DB00763,Methimazole
+DB00764,Mometasone
+DB00765,Metyrosine
+DB00766,Clavulanic acid
+DB00767,Benzquinamide
+DB00769,Hydrocortamate
+DB00770,Alprostadil
+DB00771,Clidinium
+DB00772,Malathion
+DB00773,Etoposide
+DB00774,Hydroflumethiazide
+DB00775,Tirofiban
+DB00776,Oxcarbazepine
+DB00777,Propiomazine
+DB00778,Roxithromycin
+DB00779,Nalidixic acid
+DB00780,Phenelzine
+DB00782,Propantheline
+DB00783,Estradiol
+DB00784,Mefenamic acid
+DB00785,Cryptenamine
+DB00787,Acyclovir
+DB00788,Naproxen
+DB00789,Gadopentetic acid
+DB00790,Perindopril
+DB00791,Uracil mustard
+DB00792,Tripelennamine
+DB00793,Haloprogin
+DB00794,Primidone
+DB00795,Sulfasalazine
+DB00796,Candesartan cilexetil
+DB00797,Tolazoline
+DB00798,Gentamicin
+DB00799,Tazarotene
+DB00800,Fenoldopam
+DB00801,Halazepam
+DB00802,Alfentanil
+DB00803,Colistin
+DB00804,Dicyclomine
+DB00805,Minaprine
+DB00806,Pentoxifylline
+DB00807,Proparacaine
+DB00808,Indapamide
+DB00809,Tropicamide
+DB00810,Biperiden
+DB00811,Ribavirin
+DB00812,Phenylbutazone
+DB00813,Fentanyl
+DB00814,Meloxicam
+DB00816,Orciprenaline
+DB00817,Rosoxacin
+DB00818,Propofol
+DB00819,Acetazolamide
+DB00820,Tadalafil
+DB00821,Carprofen
+DB00822,Disulfiram
+DB00823,Ethynodiol diacetate
+DB00825,Levomenthol
+DB00826,Natamycin
+DB00827,Cinoxacin
+DB00828,Fosfomycin
+DB00829,Diazepam
+DB00830,Phenmetrazine
+DB00831,Trifluoperazine
+DB00832,Phensuximide
+DB00833,Cefaclor
+DB00834,Mifepristone
+DB00835,Brompheniramine
+DB00836,Loperamide
+DB00837,Progabide
+DB00838,Clocortolone
+DB00839,Tolazamide
+DB00841,Dobutamine
+DB00842,Oxazepam
+DB00843,Donepezil
+DB00844,Nalbuphine
+DB00845,Clofazimine
+DB00846,Flurandrenolide
+DB00847,Cysteamine
+DB00848,Levamisole
+DB00849,Methylphenobarbital
+DB00850,Perphenazine
+DB00851,Dacarbazine
+DB00852,Pseudoephedrine
+DB00853,Temozolomide
+DB00854,Levorphanol
+DB00855,Aminolevulinic acid
+DB00856,Chlorphenesin
+DB00857,Terbinafine
+DB00859,Penicillamine
+DB00860,Prednisolone
+DB00861,Diflunisal
+DB00862,Vardenafil
+DB00863,Ranitidine
+DB00864,Tacrolimus
+DB00865,Benzphetamine
+DB00866,Alprenolol
+DB00867,Ritodrine
+DB00869,Dorzolamide
+DB00870,Suprofen
+DB00871,Terbutaline
+DB00872,Conivaptan
+DB14596,Loteprednol etabonate
+DB00875,Flupentixol
+DB00876,Eprosartan
+DB00877,Sirolimus
+DB00879,Emtricitabine
+DB00880,Chlorothiazide
+DB00881,Quinapril
+DB00882,Clomifene
+DB00883,Isosorbide dinitrate
+DB00884,Risedronic acid
+DB00886,Omapatrilat
+DB00887,Bumetanide
+DB00888,Mechlorethamine
+DB00889,Granisetron
+DB00890,Dienestrol
+DB00891,Sulfapyridine
+DB00892,Oxybuprocaine
+DB00893,Iron Dextran
+DB00894,Testolactone
+DB00895,Benzylpenicilloyl polylysine
+DB00896,Rimexolone
+DB00897,Triazolam
+DB00898,Ethanol
+DB00899,Remifentanil
+DB00900,Didanosine
+DB00901,Bitolterol
+DB00902,Methdilazine
+DB00903,Etacrynic acid
+DB00904,Ondansetron
+DB00905,Bimatoprost
+DB00906,Tiagabine
+DB00907,Cocaine
+DB00908,Quinidine
+DB00909,Zonisamide
+DB00910,Paricalcitol
+DB00911,Tinidazole
+DB00912,Repaglinide
+DB00913,Anileridine
+DB00914,Phenformin
+DB00915,Amantadine
+DB00916,Metronidazole
+DB00917,Dinoprostone
+DB00918,Almotriptan
+DB00919,Spectinomycin
+DB00920,Ketotifen
+DB00921,Buprenorphine
+DB00922,Levosimendan
+DB00923,Ceforanide
+DB00924,Cyclobenzaprine
+DB00925,Phenoxybenzamine
+DB00926,Etretinate
+DB00927,Famotidine
+DB00928,Azacitidine
+DB00929,Misoprostol
+DB00930,Colesevelam
+DB00931,Metacycline
+DB00932,Tipranavir
+DB00933,Mesoridazine
+DB00934,Maprotiline
+DB00935,Oxymetazoline
+DB00936,Salicylic acid
+DB00937,Diethylpropion
+DB00938,Salmeterol
+DB00939,Meclofenamic acid
+DB00940,Methantheline
+DB00941,Hexafluronium
+DB00942,Cycrimine
+DB00943,Zalcitabine
+DB00944,Demecarium
+DB00945,Acetylsalicylic acid
+DB00946,Phenprocoumon
+DB00947,Fulvestrant
+DB00948,Mezlocillin
+DB00949,Felbamate
+DB00950,Fexofenadine
+DB00951,Isoniazid
+DB00952,Naratriptan
+DB00953,Rizatriptan
+DB00954,Dirithromycin
+DB00955,Netilmicin
+DB00956,Hydrocodone
+DB00957,Norgestimate
+DB00958,Carboplatin
+DB00959,Methylprednisolone
+DB00960,Pindolol
+DB00961,Mepivacaine
+DB00962,Zaleplon
+DB00963,Bromfenac
+DB00964,Apraclonidine
+DB00965,Ethiodized oil
+DB00966,Telmisartan
+DB00967,Desloratadine
+DB00968,Methyldopa
+DB00969,Alosetron
+DB00970,Dactinomycin
+DB00972,Azelastine
+DB00973,Ezetimibe
+DB00974,Edetic acid
+DB00975,Dipyridamole
+DB00976,Telithromycin
+DB00977,Ethinylestradiol
+DB00978,Lomefloxacin
+DB00979,Cyclopentolate
+DB00980,Ramelteon
+DB00981,Physostigmine
+DB00982,Isotretinoin
+DB00983,Formoterol
+DB00984,Nandrolone phenpropionate
+DB00985,Dimenhydrinate
+DB00986,Glycopyrronium
+DB00987,Cytarabine
+DB00988,Dopamine
+DB00989,Rivastigmine
+DB00990,Exemestane
+DB00991,Oxaprozin
+DB00993,Azathioprine
+DB00994,Neomycin
+DB00995,Auranofin
+DB00996,Gabapentin
+DB00997,Doxorubicin
+DB00998,Frovatriptan
+DB00999,Hydrochlorothiazide
+DB01000,Cyclacillin
+DB01001,Salbutamol
+DB01002,Levobupivacaine
+DB01004,Ganciclovir
+DB01005,Hydroxyurea
+DB01006,Letrozole
+DB01007,Tioconazole
+DB01008,Busulfan
+DB01009,Ketoprofen
+DB01010,Edrophonium
+DB01011,Metyrapone
+DB01012,Cinacalcet
+DB01013,Clobetasol propionate
+DB01014,Balsalazide
+DB01015,Sulfamethoxazole
+DB01016,Glyburide
+DB01017,Minocycline
+DB01018,Guanfacine
+DB01019,Bethanechol
+DB01020,Isosorbide mononitrate
+DB01021,Trichlormethiazide
+DB01022,Phylloquinone
+DB01023,Felodipine
+DB01024,Mycophenolic acid
+DB01026,Ketoconazole
+DB01028,Methoxyflurane
+DB01029,Irbesartan
+DB01030,Topotecan
+DB01032,Probenecid
+DB01033,Mercaptopurine
+DB01034,Cerulenin
+DB01035,Procainamide
+DB01036,Tolterodine
+DB01037,Selegiline
+DB01038,Carphenazine
+DB01039,Fenofibrate
+DB01041,Thalidomide
+DB01042,Melphalan
+DB01043,Memantine
+DB01044,Gatifloxacin
+DB01045,Rifampicin
+DB01046,Lubiprostone
+DB01047,Fluocinonide
+DB01048,Abacavir
+DB01049,Ergoloid mesylate
+DB01050,Ibuprofen
+DB01051,Novobiocin
+DB01053,Benzylpenicillin
+DB01054,Nitrendipine
+DB01056,Tocainide
+DB01057,Echothiophate
+DB01058,Praziquantel
+DB01059,Norfloxacin
+DB01060,Amoxicillin
+DB01061,Azlocillin
+DB01062,Oxybutynin
+DB01063,Acetophenazine
+DB01064,Isoprenaline
+DB01065,Melatonin
+DB01066,Cefditoren
+DB01067,Glipizide
+DB01068,Clonazepam
+DB01069,Promethazine
+DB01070,Dihydrotachysterol
+DB01071,Mequitazine
+DB01072,Atazanavir
+DB01073,Fludarabine
+DB01074,Perhexiline
+DB01075,Diphenhydramine
+DB01076,Atorvastatin
+DB01077,Etidronic acid
+DB01078,Deslanoside
+DB01079,Tegaserod
+DB01080,Vigabatrin
+DB01081,Diphenoxylate
+DB01082,Streptomycin
+DB01083,Orlistat
+DB01084,Emedastine
+DB01085,Pilocarpine
+DB01086,Benzocaine
+DB01087,Primaquine
+DB01088,Iloprost
+DB01089,Deserpidine
+DB01090,Pentolinium
+DB01092,Ouabain
+DB01093,Dimethyl sulfoxide
+DB01094,Hesperetin
+DB01095,Fluvastatin
+DB01096,Oxamniquine
+DB01097,Leflunomide
+DB01098,Rosuvastatin
+DB01099,Flucytosine
+DB01100,Pimozide
+DB01101,Capecitabine
+DB01102,Arbutamine
+DB01103,Quinacrine
+DB01104,Sertraline
+DB01105,Sibutramine
+DB01106,Levocabastine
+DB01107,Methyprylon
+DB01108,Trilostane
+DB01109,Heparin
+DB01110,Miconazole
+DB01111,Colistimethate
+DB01112,Cefuroxime
+DB01113,Papaverine
+DB01114,Chlorpheniramine
+DB01115,Nifedipine
+DB01116,Trimethaphan
+DB01117,Atovaquone
+DB01118,Amiodarone
+DB01119,Diazoxide
+DB01120,Gliclazide
+DB01121,Phenacemide
+DB01122,Ambenonium
+DB01124,Tolbutamide
+DB01126,Dutasteride
+DB01127,Econazole
+DB01128,Bicalutamide
+DB01129,Rabeprazole
+DB01130,Prednicarbate
+DB01131,Proguanil
+DB01132,Pioglitazone
+DB01133,Tiludronic acid
+DB01134,Desoxycorticosterone pivalate
+DB01135,Doxacurium
+DB01136,Carvedilol
+DB01137,Levofloxacin
+DB01138,Sulfinpyrazone
+DB01139,Cefapirin
+DB01140,Cefadroxil
+DB01141,Micafungin
+DB01142,Doxepin
+DB01143,Amifostine
+DB01144,Diclofenamide
+DB01146,Diphenylpyraline
+DB01147,Cloxacillin
+DB01148,Flavoxate
+DB01149,Nefazodone
+DB01150,Cefprozil
+DB01151,Desipramine
+DB01152,Candicidin
+DB01154,Thiamylal
+DB01155,Gemifloxacin
+DB01156,Bupropion
+DB01157,Trimetrexate
+DB01158,Bretylium
+DB01159,Halothane
+DB01160,Dinoprost tromethamine
+DB01161,Chloroprocaine
+DB01162,Terazosin
+DB01163,Amdinocillin
+DB01164,Calcium chloride
+DB01165,Ofloxacin
+DB01166,Cilostazol
+DB01167,Itraconazole
+DB01168,Procarbazine
+DB01169,Arsenic trioxide
+DB01170,Guanethidine
+DB01171,Moclobemide
+DB01172,Kanamycin
+DB01173,Orphenadrine
+DB01174,Phenobarbital
+DB01175,Escitalopram
+DB01176,Cyclizine
+DB01177,Idarubicin
+DB01178,Chlormezanone
+DB01180,Rescinnamine
+DB01181,Ifosfamide
+DB01182,Propafenone
+DB01183,Naloxone
+DB01184,Domperidone
+DB01185,Fluoxymesterone
+DB01186,Pergolide
+DB01188,Ciclopirox
+DB01189,Desflurane
+DB01190,Clindamycin
+DB01191,Dexfenfluramine
+DB01192,Oxymorphone
+DB01193,Acebutolol
+DB01194,Brinzolamide
+DB01195,Flecainide
+DB01196,Estramustine
+DB01197,Captopril
+DB01198,Zopiclone
+DB01199,Tubocurarine
+DB01200,Bromocriptine
+DB01201,Rifapentine
+DB01202,Levetiracetam
+DB01203,Nadolol
+DB01204,Mitoxantrone
+DB01205,Flumazenil
+DB01206,Lomustine
+DB01207,Ridogrel
+DB01208,Sparfloxacin
+DB01209,Dezocine
+DB01210,Levobunolol
+DB01211,Clarithromycin
+DB01212,Ceftriaxone
+DB01213,Fomepizole
+DB01214,Metipranolol
+DB01215,Estazolam
+DB01216,Finasteride
+DB01217,Anastrozole
+DB01218,Halofantrine
+DB01219,Dantrolene
+DB01220,Rifaximin
+DB01221,Ketamine
+DB01222,Budesonide
+DB01223,Aminophylline
+DB01224,Quetiapine
+DB01225,Enoxaparin
+DB01226,Mivacurium
+DB01227,Levacetylmethadol
+DB01228,Encainide
+DB01229,Paclitaxel
+DB01231,Diphenidol
+DB01232,Saquinavir
+DB01233,Metoclopramide
+DB01234,Dexamethasone
+DB01235,Levodopa
+DB01236,Sevoflurane
+DB01238,Aripiprazole
+DB01239,Chlorprothixene
+DB01240,Epoprostenol
+DB01241,Gemfibrozil
+DB01242,Clomipramine
+DB01243,Chloroxine
+DB01244,Bepridil
+DB01245,Decamethonium
+DB01246,Alimemazine
+DB01247,Isocarboxazid
+DB01248,Docetaxel
+DB01249,Iodixanol
+DB01250,Olsalazine
+DB01251,Gliquidone
+DB01252,Mitiglinide
+DB01253,Ergometrine
+DB01254,Dasatinib
+DB01255,Lisdexamfetamine
+DB01256,Retapamulin
+DB01257,Eculizumab
+DB01259,Lapatinib
+DB01260,Desonide
+DB01261,Sitagliptin
+DB01262,Decitabine
+DB01263,Posaconazole
+DB01264,Darunavir
+DB01265,Telbivudine
+DB01267,Paliperidone
+DB01268,Sunitinib
+DB01269,Panitumumab
+DB01270,Ranibizumab
+DB01273,Varenicline
+DB01274,Arformoterol
+DB01275,Hydralazine
+DB01276,Exenatide
+DB01277,Mecasermin
+DB01278,Pramlintide
+DB01280,Nelarabine
+DB01281,Abatacept
+DB01282,Carbetocin
+DB01283,Lumiracoxib
+DB01284,Tetracosactide
+DB01285,Corticotropin
+DB01288,Fenoterol
+DB01289,Glisoxepide
+DB01291,Pirbuterol
+DB01294,Bismuth subsalicylate
+DB01295,Bevantolol
+DB01296,Glucosamine
+DB01297,Practolol
+DB01298,Sulfacytine
+DB01299,Sulfadoxine
+DB01301,Rolitetracycline
+DB01303,Oxtriphylline
+DB01306,Insulin aspart
+DB01307,Insulin detemir
+DB01309,Insulin glulisine
+DB01319,Fosamprenavir
+DB01320,Fosphenytoin
+DB01321,Josamycin
+DB01323,St. John's Wort
+DB01324,Polythiazide
+DB01325,Quinethazone
+DB01326,Cefamandole
+DB01327,Cefazolin
+DB01328,Cefonicid
+DB01329,Cefoperazone
+DB01330,Cefotetan
+DB01331,Cefoxitin
+DB01332,Ceftizoxime
+DB01333,Cefradine
+DB01336,Metocurine
+DB01337,Pancuronium
+DB01338,Pipecuronium
+DB01339,Vecuronium
+DB01340,Cilazapril
+DB01342,Forasartan
+DB01344,Tolevamer
+DB01345,Potassium cation
+DB01347,Saprisartan
+DB01348,Spirapril
+DB01349,Tasosartan
+DB01351,Amobarbital
+DB01352,Aprobarbital
+DB01353,Butobarbital
+DB01354,Heptabarbital
+DB01355,Hexobarbital
+DB01356,Lithium cation
+DB01357,Mestranol
+DB01359,Penbutolol
+DB01362,Iohexol
+DB01363,Ephedra sinica root
+DB01364,Ephedrine
+DB01365,Mephentermine
+DB01366,Procaterol
+DB01367,Rasagiline
+DB01369,Quinupristin
+DB01370,Aluminium
+DB01373,Calcium
+DB01377,Magnesium oxide
+DB01378,Magnesium cation
+DB01380,Cortisone acetate
+DB01381,Ginkgo biloba
+DB01382,Glymidine
+DB01384,Paramethasone
+DB01388,Mibefradil
+DB01390,Sodium bicarbonate
+DB01392,Yohimbine
+DB01393,Bezafibrate
+DB01394,Colchicine
+DB01395,Drospirenone
+DB01396,Digitoxin
+DB01397,Magnesium salicylate
+DB01399,Salsalate
+DB01400,Neostigmine
+DB01401,Choline magnesium trisalicylate
+DB01403,Methotrimeprazine
+DB01404,Ginseng
+DB01405,Temafloxacin
+DB01406,Danazol
+DB01407,Clenbuterol
+DB01408,Bambuterol
+DB01409,Tiotropium
+DB01410,Ciclesonide
+DB01411,Pranlukast
+DB01412,Theobromine
+DB01413,Cefepime
+DB01414,Cefacetrile
+DB01415,Ceftibuten
+DB01416,Cefpodoxime
+DB01418,Acenocoumarol
+DB01419,Antrafenine
+DB01420,Testosterone propionate
+DB01421,Paromomycin
+DB01422,Nitroxoline
+DB01423,Stepronin
+DB01424,Aminophenazone
+DB01425,Alizapride
+DB01426,Ajmaline
+DB01427,Amrinone
+DB01428,Oxybenzone
+DB01429,Aprindine
+DB01431,Allylestrenol
+DB01432,Cholestyramine
+DB01433,Methadyl acetate
+DB01434,19-norandrostenedione
+DB01435,Antipyrine
+DB01436,Alfacalcidol
+DB01437,Glutethimide
+DB01438,Phenazopyridine
+DB01440,gamma-Hydroxybutyric acid
+DB01442,MMDA
+DB01445,Bufotenine
+DB01450,Dihydroetorphine
+DB01452,Diamorphine
+DB01454,Midomafetamine
+DB01456,5-androstenedione
+DB01459,Bezitramide
+DB01463,Fencamfamin
+DB01466,Ethylmorphine
+DB01467,"2,5-Dimethoxy-4-ethylamphetamine"
+DB01471,Bolasterone
+DB01472,4-Methoxyamphetamine
+DB01481,1-Testosterone
+DB01482,Fenethylline
+DB01483,Barbital
+DB01484,"4-Bromo-2,5-dimethoxyamphetamine"
+DB01485,4-Hydroxytestosterone
+DB01488,Dimethyltryptamine
+DB01489,Camazepam
+DB01495,Dichloralphenazone
+DB01496,"Dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1H,5H)-pyrimidinedione"
+DB01497,Etorphine
+DB01501,Difenoxin
+DB01509,Tenamfetamine
+DB01510,Dehydrochloromethyltestosterone
+DB01511,Delorazepam
+DB01520,Tenocyclidine
+DB01521,Clostebol
+DB01524,Androstenediol
+DB01525,Ecgonine
+DB01529,Dextromoramide
+DB01531,Desomorphine
+DB01534,Chlorhexadol
+DB01535,Carfentanil
+DB01536,Androstenedione
+DB01537,"4-Bromo-2,5-dimethoxyphenethylamine"
+DB01541,Boldenone
+DB01543,18-methyl-19-nortestosterone
+DB01544,Flunitrazepam
+DB01545,Ethyl loflazepate
+DB01547,Drotebanol
+DB01548,Diprenorphine
+DB01550,Fenproporex
+DB01551,Dihydrocodeine
+DB01553,Cloxazolam
+DB01554,Bolandiol
+DB01555,Alphacetylmethadol
+DB01556,Chlorphentermine
+DB01558,Bromazepam
+DB01559,Clotiazepam
+DB01560,Cathinone
+DB01562,1-(2-Phenylethyl)-4-phenyl-4-acetoxypiperidine
+DB01563,Chloral hydrate
+DB01564,Calusterone
+DB01565,Dihydromorphine
+DB01566,Methylenedioxyethamphetamine
+DB01567,Fludiazepam
+DB01569,Formebolone
+DB01572,Methyl-1-testosterone
+DB01575,Kaolin
+DB01576,Dextroamphetamine
+DB01577,Metamfetamine
+DB01579,Phendimetrazine
+DB01580,Oxprenolol
+DB01581,Sulfamerazine
+DB01582,Sulfamethazine
+DB01583,Liotrix
+DB01586,Ursodeoxycholic acid
+DB01587,Ketazolam
+DB01588,Prazepam
+DB01589,Quazepam
+DB01590,Everolimus
+DB01591,Solifenacin
+DB01592,Iron
+DB01593,Zinc
+DB01594,Cinolazepam
+DB01595,Nitrazepam
+DB01597,Cilastatin
+DB01598,Imipenem
+DB01599,Probucol
+DB01600,Tiaprofenic acid
+DB01601,Lopinavir
+DB01602,Bacampicillin
+DB01603,Meticillin
+DB01604,Pivampicillin
+DB01605,Pivmecillinam
+DB01606,Tazobactam
+DB01607,Ticarcillin
+DB01608,Periciazine
+DB01609,Deferasirox
+DB01610,Valganciclovir
+DB01611,Hydroxychloroquine
+DB01612,Amyl Nitrite
+DB01613,Erythrityl tetranitrate
+DB01614,Acepromazine
+DB01615,Aceprometazine
+DB01616,Alverine
+DB01618,Molindone
+DB01619,Phenindamine
+DB01620,Pheniramine
+DB01621,Pipotiazine
+DB01622,Thioproperazine
+DB01623,Thiothixene
+DB01624,Zuclopenthixol
+DB01625,Isopropamide
+DB01626,Pargyline
+DB01627,Lincomycin
+DB01628,Etoricoxib
+DB01629,5-fluorouridine
+DB01638,Sorbitol
+DB01645,Genistein
+DB01650,trans-2-hydroxycinnamic acid
+DB01656,Roflumilast
+DB01667,8-azaguanine
+DB01669,Virginiamycin M1
+DB01685,Topiroxostat
+DB01698,Rutin
+DB01700,AICA ribonucleotide
+DB01708,Prasterone
+DB01740,"4-butyl-5-propyl-1,3-selenazol-2-amine"
+DB01764,Dalfopristin
+DB01783,Pantothenic acid
+DB01791,Piclamilast
+DB01816,Castanospermine
+DB01839,Propylene glycol
+DB01873,Epothilone D
+DB01892,Hyperforin
+DB01910,Sinefungin
+DB01933,7-Hydroxystaurosporine
+DB01942,Formic acid
+DB01954,Rolipram
+DB01978,"7,9-Dimethylguanine"
+DB02031,"(6S)-5,6,7,8-tetrahydrofolic acid"
+DB02032,Epicaptopril
+DB02056,Prostaglandin D2
+DB02058,3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone
+DB02067,Triglu-5-formyl-tetrahydrofolate
+DB02105,"3,5-Dinitrocatechol"
+DB02109,Hadacidin
+DB02115,Daidzin
+DB02123,Glycochenodeoxycholic Acid
+DB02134,Xanthine
+DB02136,Cephalosporin analog
+DB02165,Zinc trihydroxide
+DB02178,Phenylacetaldehyde
+DB02187,Equilin
+DB02207,7-Nitroindazole
+DB02224,Taxifolin
+DB02234,S-Ethylisothiourea
+DB02237,Maltotetraose
+DB02245,7-Deazaguanine
+DB02247,Hydrolyzed Cephalothin
+DB02261,Platelet Activating Factor
+DB02266,Flufenamic acid
+DB02285,Protoporphyrin
+DB02300,Calcipotriol
+DB02304,Prostaglandin B2
+DB02329,Carbenoxolone
+DB02342,2-Methoxyestradiol
+DB02345,Selenocysteine
+DB02365,"1,10-Phenanthroline"
+DB02369,"3-Aza-2,3-Dihydrogeranyl Diphosphate"
+DB02377,Guanine
+DB02423,Thiopyrophosphate
+DB02424,Geldanamycin
+DB02442,Dioxyselenocysteine
+DB02489,9-Methylguanine
+DB02513,Thymol
+DB02520,Ditiocarb
+DB02527,Cyclic adenosine monophosphate
+DB02546,Vorinostat
+DB02552,Geranyl Diphosphate
+DB02567,PD173955
+DB02568,Peldesine
+DB02587,Colforsin
+DB02589,Se-Ethyl-Isoselenourea
+DB02600,Oseltamivir acid
+DB02638,Terlipressin
+DB02640,Fumagillin
+DB02659,Cholic Acid
+DB02691,Glycocholic acid
+DB02699,4-Oxoretinol
+DB02701,Nicotinamide
+DB02703,Fusidic acid
+DB02709,Resveratrol
+DB02753,Selenoinosine
+DB02756,Pyroquilon
+DB02789,Pregnenolone
+DB02806,2-Methoxyethanol
+DB02845,Methylphosphinic Acid
+DB02852,Domoic Acid
+DB02860,Calyculin A
+DB02901,Stanolone
+DB02925,Piretanide
+DB02948,Fosmidomycin
+DB02958,Selenomethionine Selenoxide
+DB02959,Oxitriptan
+DB02968,Penicillin G Acyl-Serine
+DB02975,GE-2270A
+DB03010,Patupilone
+DB03034,D-Levofloxacin
+DB03040,Nitrilotriacetic acid
+DB03043,"(S)-2-Amino-3-(6h-Selenolo[2,3-B]-Pyrrol-4-Yl)-Propionic Acid"
+DB03049,S-Selanyl Cysteine
+DB03057,Malonaldehyde
+DB03070,Selenazole-4-carboxyamide-adenine dinucleotide
+DB03098,[Methylseleno]Acetate
+DB03128,Acetylcholine
+DB03166,Acetic acid
+DB03172,Tubercidin
+DB03174,Phosphonoacetaldehyde
+DB03209,Oteracil
+DB03255,Phenol
+DB03256,(6R)-Folinic acid
+DB03266,Glutaral
+DB03312,Brivudine
+DB03313,Cephalosporin C
+DB03322,Dexpropranolol
+DB03374,"3,5-Diiodotyrosine"
+DB03394,Heptaethylene glycol
+DB03395,Enalkiren
+DB03404,Hemin
+DB03410,4-hydroxycoumarin
+DB03419,Uracil
+DB03423,S-Adenosyl-L-Homoselenocysteine
+DB03424,Ubenimex
+DB03450,Cephalothin Group
+DB03459,Sparfosic acid
+DB03467,Naringenin
+DB03496,Alvocidib
+DB03509,2-(4-Chlorophenyl)-5-Quinoxalinecarboxamide
+DB03513,"(S)-2-Amino-3-(4h-Selenolo[3,2-B]-Pyrrol-6-Yl)-Propionic Acid"
+DB03515,Equilenin
+DB03523,Brequinar
+DB03553,Glutaric Acid
+DB03560,P-Hydroxybenzaldehyde
+DB03566,Spermidine
+DB03575,Phencyclidine
+DB03585,Oxyphenbutazone
+DB03587,Pyruvaldehyde
+DB03600,Capric acid
+DB03604,Tiratricol
+DB03615,Ribostamycin
+DB03619,Deoxycholic acid
+DB03695,Piritrexim
+DB03701,Vanoxerine
+DB03754,Tromethamine
+DB03756,Doconexent
+DB03758,Radicicol
+DB03783,Phenacetin
+DB03793,Benzoic acid
+DB03819,Salicylhydroxamic Acid
+DB03825,Rhodamine 6G
+DB03843,Formaldehyde
+DB03849,Cilomilast
+DB03866,Prostaglandin G2
+DB03880,Batimastat
+DB03902,Oxalic Acid
+DB03938,Deacetoxycephalosporin C
+DB03946,"3,4-Dihydroxybenzoic Acid"
+DB03966,Clorobiocin
+DB04017,Clorgiline
+DB04066,p-Coumaric acid
+DB04070,6-Deoxyerythronolide B
+DB04076,Hypoxanthine
+DB04106,Fotemustine
+DB04124,Aurodox
+DB04145,Nicotinyl alcohol
+DB04160,Pyrophosphoric acid
+DB04165,Valpromide
+DB04216,Quercetin
+DB04222,Sparsomycin
+DB04249,Zinc Substituted Heme C
+DB04250,Butyrylthiocholine
+DB04253,Tretazicar
+DB04258,Seocalcitol
+DB04263,Geneticin
+DB04267,Dipicolinic acid
+DB04272,Citric acid
+DB04325,Phenethylamine
+DB04331,Monastrol
+DB04334,6-hydroxydopa quinone
+DB04339,Carbocisteine
+DB04348,Taurocholic acid
+DB04356,9-Deazaguanine
+DB04365,Arecoline
+DB04440,Nebularine
+DB04468,Afimoxifene
+DB04513,N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide
+DB04519,Caprylic acid
+DB04540,Cholesterol
+DB04552,Niflumic acid
+DB04557,Arachidonic Acid
+DB04570,Latamoxef
+DB04571,Trioxsalen
+DB04572,Thiotepa
+DB04573,Estriol
+DB04574,Estrone sulfate
+DB04575,Quinestrol
+DB04576,Fleroxacin
+DB04581,1-benzylimidazole
+DB04599,Aniracetam
+DB04619,Acetophenone
+DB04626,Apramycin
+DB04630,Aldosterone
+DB04652,Corticosterone
+DB04655,Metoprine
+DB04665,Coumarin
+DB04682,Octylphenoxy polyethoxyethanol
+DB04688,Methylecgonine
+DB04690,Camptothecin
+DB04695,Farnesyl thiopyrophosphate
+DB04707,Hydroxyfasudil
+DB04711,Iodipamide
+DB04725,Licofelone
+DB04729,Gentamicin C1a
+DB04741,Myxothiazol
+DB04743,Nimesulide
+DB04744,Lawsone
+DB04785,Streptolydigin
+DB04786,Suramin
+DB04789,5-methyltetrahydrofolic acid
+DB04794,Bifonazole
+DB04795,Thenoyltrifluoroacetone
+DB04796,Inecalcitol
+DB04808,Neamine
+DB04812,Benoxaprofen
+DB04816,Dantron
+DB04817,Metamizole
+DB04818,Iproniazid
+DB04819,Methapyrilene
+DB04820,Nialamide
+DB04821,Nomifensine
+DB04823,Oxyphenisatin
+DB04824,Phenolphthalein
+DB04825,Prenylamine
+DB04826,Thenalidine
+DB04827,Urethane
+DB04828,Zomepirac
+DB04829,Lysergic acid diethylamide
+DB04830,Buformin
+DB04831,Tienilic acid
+DB04832,Zimelidine
+DB04833,Methaqualone
+DB04834,Rapacuronium
+DB04835,Maraviroc
+DB04836,Amineptine
+DB04837,Clofedanol
+DB04838,Cyclandelate
+DB04839,Cyproterone acetate
+DB04840,Debrisoquine
+DB04841,Flunarizine
+DB04842,Fluspirilene
+DB04843,Mepenzolate
+DB04844,Tetrabenazine
+DB04845,Ixabepilone
+DB04846,Celiprolol
+DB04849,Cediranib
+DB04850,Posizolid
+DB04851,Biricodar
+DB04854,Febuxostat
+DB04855,Dronedarone
+DB04856,Dexloxiglumide
+DB04858,Tirapazamine
+DB04861,Nebivolol
+DB04863,Lefradafiban
+DB04864,Huperzine A
+DB04865,Omacetaxine mepesuccinate
+DB04866,Halofuginone
+DB04868,Nilotinib
+DB04871,Lorcaserin
+DB04872,Osanetant
+DB04876,Vildagliptin
+DB04878,Voglibose
+DB04879,Vatalanib
+DB04880,Enoximone
+DB04881,Elacridar
+DB04884,Dapoxetine
+DB04885,Cilansetron
+DB04886,Calanolide A
+DB04888,Bifeprunox
+DB04889,Bicifadine
+DB04891,Becocalcidiol
+DB04892,Phenserine
+DB04894,Vapreotide
+DB04895,Pegaptanib
+DB04896,Milnacipran
+DB04897,Lucinactant
+DB04898,Ximelagatran
+DB04899,Nesiritide
+DB04900,Thymalfasin
+DB04901,Galiximab
+DB04903,Pagoclone
+DB04905,Tesmilifene
+DB04907,Sitimagene ceradenovec
+DB04908,Flibanserin
+DB04911,Oritavancin
+DB04914,G17DT
+DB04917,Renzapride
+DB04918,Ceftobiprole
+DB04920,Clevidipine
+DB04925,Desmoteplase
+DB04930,Permethrin
+DB04932,Defibrotide
+DB04934,Rifalazil
+DB04936,Tagatose
+DB04938,Ospemifene
+DB04946,Iloperidone
+DB04948,Lofexidine
+DB04949,Pexelizumab
+DB04950,Ranpirnase
+DB04951,Pirfenidone
+DB04952,Ramoplanin
+DB04953,Ezogabine
+DB04956,Afelimomab
+DB04957,Azimilide
+DB04958,Epratuzumab
+DB04960,Tipifarnib
+DB04961,Troxacitabine
+DB04962,Bectumomab
+DB04964,Oregovomab
+DB04975,Banoxantrone
+DB04977,Plitidepsin
+DB04988,IGN311
+DB04996,Satraplatin
+DB05006,Adecatumumab
+DB05015,Belinostat
+DB05016,Ataluren
+DB05018,Migalastat
+DB05022,Amonafide
+DB05034,Ularitide
+DB05039,Indacaterol
+DB05076,Fenretinide
+DB05077,SLV319
+DB05084,Abaloparatide
+DB05088,Tetrathiomolybdate
+DB05095,Cimicoxib
+DB05097,Labetuzumab
+DB05099,Ancrod
+DB05101,Matuzumab
+DB05102,Rupintrivir
+DB05105,Pleconaril
+DB05107,16-Bromoepiandrosterone
+DB05109,Trabectedin
+DB05111,Fontolizumab
+DB05115,NN344
+DB05129,Elsamitrucin
+DB05136,Bavituximab
+DB05137,Lobeline
+DB05139,CR002
+DB05143,OXI-4503
+DB05144,PEV3A
+DB05152,NGX267
+DB05154,Pretomanid
+DB05168,Vintafolide
+DB05202,Egaptivon pegol
+DB05209,Rozrolimupab
+DB05212,HE3286
+DB05223,Pracinostat
+DB05227,APD791
+DB05229,Beraprost
+DB05232,Tetrodotoxin
+DB05239,Cobimetinib
+DB05245,Silver sulfadiazine
+DB05246,Methsuximide
+DB05254,Fibrinolysin
+DB05258,Interferon alfa
+DB05259,Glatiramer
+DB05260,Gallium nitrate
+DB05262,Oxypurinol
+DB05265,Ecabet
+DB05266,Ibudilast
+DB05271,Rotigotine
+DB05288,Anecortave acetate
+DB05294,Vandetanib
+DB05295,Eldecalcitol
+DB05296,Motexafin lutetium
+DB05304,Girentuximab
+DB05306,Alferminogene tadenovec
+DB05316,Pimavanserin
+DB05321,PEG-uricase
+DB05325,INGN 225
+DB05332,Romiplostim
+DB05336,Obiltoxaximab
+DB05351,Dexlansoprazole
+DB05374,Rindopepimut
+DB05381,Histamine
+DB05383,Pimagedine
+DB05386,Regramostim
+DB05395,Amibegron
+DB05396,Albinterferon Alfa-2B
+DB05405,XTL-001
+DB05424,Canertinib
+DB05428,Motexafin gadolinium
+DB05437,NAV 1800
+DB05440,SRP 299
+DB05459,Briakinumab
+DB05465,Tandutinib
+DB05472,omega interferon
+DB05482,7-ethyl-10-hydroxycamptothecin
+DB05488,Technetium Tc-99m ciprofloxacin
+DB05496,Otelixizumab
+DB05521,Telaprevir
+DB05524,Pelitinib
+DB05528,Mipomersen
+DB05532,BMS-488043
+DB05540,Alanosine
+DB05541,Brivaracetam
+DB05542,Naronapride
+DB05545,AMG 108
+DB05550,Iratumumab
+DB05555,Enokizumab
+DB05562,Naluzotan
+DB05575,Motesanib
+DB05578,Ramucirumab
+DB05595,Farletuzumab
+DB05607,PRX-08066
+DB05631,ALT-2074
+DB05656,Veltuzumab
+DB05668,Palifosfamide
+DB05676,Apremilast
+DB05679,Ustekinumab
+DB05687,BL-1020
+DB05708,GTS-21
+DB05710,Gantacurium
+DB05718,Maxy-G34
+DB05767,Andrographolide
+DB05773,Trastuzumab emtansine
+DB05779,Oglufanide
+DB05786,Irofulven
+DB05793,PRO-542
+DB05797,TNX-901
+DB05804,Prasterone sulfate
+DB05812,Abiraterone
+DB05814,GPI-1485
+DB05819,NBI-6024
+DB05829,Parathyroid hormone
+DB05830,Trestolone
+DB05860,Peginterferon alfacon-1
+DB05871,UC-781
+DB05875,"Sar9, Met (O2)11-Substance P"
+DB05885,Seletracetam
+DB05889,Inotuzumab ozogamicin
+DB05892,RI 624
+DB05903,KOS-1584
+DB05915,MYO-029
+DB05916,CT-011
+DB05928,Dovitinib
+DB05941,Leronlimab
+DB05942,GI-5005
+DB05974,Transcrocetinate
+DB05990,Obeticholic acid
+DB05996,Glembatumumab vedotin
+DB06011,AMG-222
+DB06013,Aldoxorubicin
+DB06016,Cariprazine
+DB06021,AV-412
+DB06022,GlycoPEG-GCSF
+DB06040,Filanesib
+DB06043,Olaratumab
+DB06049,IPH 2101
+DB06050,TB-402
+DB06077,Lumateperone
+DB06081,Caplacizumab
+DB06101,IMC-1C11
+DB06109,YKP-1358
+DB06116,Eldelumab
+DB06117,"1alpha,24S-Dihydroxyvitamin D2"
+DB06119,Cenobamate
+DB06127,Bisegliptin
+DB06144,Sertindole
+DB06145,Spiramycin
+DB06147,Sulfathiazole
+DB06148,Mianserin
+DB06149,Teicoplanin
+DB06150,Sulfadimethoxine
+DB06151,Acetylcysteine
+DB06152,Nylidrin
+DB06153,Pizotifen
+DB06154,Pentaerythritol tetranitrate
+DB06155,Rimonabant
+DB06159,Rubitecan
+DB06160,Garenoxacin
+DB06162,Lumiliximab
+DB06163,Plevitrexed
+DB06168,Canakinumab
+DB06171,Paclitaxel trevatide
+DB06174,Noscapine
+DB06176,Romidepsin
+DB06181,IMO-2055
+DB06186,Ipilimumab
+DB06190,Solabegron
+DB06191,Zosuquidar
+DB06192,Nimotuzumab
+DB06193,Pixantrone
+DB06194,Elocalcitol
+DB06195,Seliciclib
+DB06196,Icatibant
+DB06198,Alovudine
+DB06199,Atrasentan
+DB06200,Tedisamil
+DB06201,Rufinamide
+DB06202,Lasofoxifene
+DB06203,Alogliptin
+DB06204,Tapentadol
+DB06205,Vorhyaluronidase alfa
+DB06206,Sugammadex
+DB06207,Silodosin
+DB06209,Prasugrel
+DB06210,Eltrombopag
+DB06211,Doripenem
+DB06212,Tolvaptan
+DB06213,Regadenoson
+DB06215,Ferumoxytol
+DB06216,Asenapine
+DB06217,Vernakalant
+DB06218,Lacosamide
+DB06219,Dalbavancin
+DB06228,Rivaroxaban
+DB06230,Nalmefene
+DB06233,Ridaforolimus
+DB06234,Maribavir
+DB06235,Vadimezan
+DB06236,Elvucitabine
+DB06237,Avanafil
+DB06240,Tariquidar
+DB06241,Clenoliximab
+DB06245,Lanoteplase
+DB06246,Exisulind
+DB06250,Fluasterone
+DB06251,Dersalazine
+DB06255,Incadronic acid
+DB06261,Hexaminolevulinate
+DB06262,Droxidopa
+DB06263,Amrubicin
+DB06264,Tolperisone
+DB06266,Lonidamine
+DB06267,Udenafil
+DB06268,Sitaxentan
+DB06271,Sulodexide
+DB06272,Maxacalcitol
+DB06273,Tocilizumab
+DB06274,Alvimopan
+DB06282,Levocetirizine
+DB06283,Ziconotide
+DB06285,Teriparatide
+DB06287,Temsirolimus
+DB06288,Amisulpride
+DB06290,Simeprevir
+DB06292,Dapagliflozin
+DB06293,Pegnivacogin
+DB06294,Semuloparin
+DB06302,Glesatinib
+DB06304,BIIB015
+DB06305,Sonepcizumab
+DB06310,Motavizumab
+DB06317,Elotuzumab
+DB06318,AVE9633
+DB06322,Carotuximab
+DB06324,XmAb 2513
+DB06325,Pegpleranib
+DB06334,Tucidinostat
+DB06335,Saxagliptin
+DB06342,Coltuximab ravtansine
+DB06343,Teprotumumab
+DB06358,Iclaprim
+DB06360,Lucatumumab
+DB06365,Sapacitabine
+DB06366,Pertuzumab
+DB06370,Indisulam
+DB06371,Siplizumab
+DB06372,Rilonacept
+DB06379,Calcitonin gene-related peptide
+DB06395,Abafungin
+DB06400,Vitespen
+DB06401,Bazedoxifene
+DB06402,Telavancin
+DB06403,Ambrisentan
+DB06404,Human C1-esterase inhibitor
+DB06406,Idraparinux
+DB06408,Taribavirin
+DB06410,Doxercalciferol
+DB06412,Oxymetholone
+DB06413,Armodafinil
+DB06414,Etravirine
+DB06415,Calfactant
+DB06419,Cethromycin
+DB06420,Annamycin
+DB06421,Declopramide
+DB06422,Ticalopride
+DB06423,Endostatin
+DB06433,Tezacitabine
+DB06436,Semaxanib
+DB06440,Ravuconazole
+DB06441,Cangrelor
+DB06442,Avasimibe
+DB06445,Diethylnorspermine
+DB06446,Dotarizine
+DB06458,Remacemide
+DB06461,Squalamine
+DB06467,Apolizumab
+DB06468,Cariporide
+DB06469,Lestaurtinib
+DB06470,Clomethiazole
+DB06474,Sibrotuzumab
+DB06478,Porfiromycin
+DB06479,Propentofylline
+DB06480,Prucalopride
+DB06506,Repinotan
+DB06510,Muraglitazar
+DB06512,Deramciclane
+DB06527,Tramiprosate
+DB06529,Ocinaplon
+DB06534,Thrombopoietin
+DB06535,Etilevodopa
+DB06543,Astaxanthin
+DB06550,Bivatuzumab
+DB06554,Gaboxadol
+DB06557,Lerdelimumab
+DB06558,Tezosentan
+DB06575,Valomaciclovir
+DB06579,Adipiplon
+DB06582,Dextofisopam
+DB06584,TG4010
+DB06587,Mitemcinal
+DB06589,Pazopanib
+DB06590,Ceftaroline fosamil
+DB06594,Agomelatine
+DB06595,Midostaurin
+DB06599,Lexatumumab
+DB06600,Nemonoxacin
+DB06602,Reslizumab
+DB06603,Panobinostat
+DB06605,Apixaban
+DB06606,Teplizumab
+DB06607,Catumaxomab
+DB06608,Tafenoquine
+DB06611,Pegsunercept
+DB06612,Mepolizumab
+DB06614,Peramivir
+DB06616,Bosutinib
+DB06623,Flupirtine
+DB06624,Taranabant
+DB06626,Axitinib
+DB06635,Otamixaban
+DB06636,Isavuconazonium
+DB06637,Dalfampridine
+DB06643,Denosumab
+DB06647,Volociximab
+DB06650,Ofatumumab
+DB06652,Vicriviroc
+DB06654,Safinamide
+DB06655,Liraglutide
+DB06659,Rostaporfin
+DB06660,Saredutant
+DB06662,Abetimus
+DB06663,Pasireotide
+DB06670,Odanacatib
+DB06674,Golimumab
+DB06678,Esmirtazapine
+DB06679,Amediplase
+DB06681,Belatacept
+DB06683,Clevudine
+DB06684,Vilazodone
+DB06685,Laquinimod
+DB06688,Sipuleucel-T
+DB06690,Nitrous oxide
+DB06691,Mepyramine
+DB06692,Aprotinin
+DB06693,Mevastatin
+DB06694,Xylometazoline
+DB06695,Dabigatran etexilate
+DB06696,Arbekacin
+DB06697,Artemether
+DB06698,Betahistine
+DB06699,Degarelix
+DB06700,Desvenlafaxine
+DB06701,Dexmethylphenidate
+DB06702,Fesoterodine
+DB06704,Iobenguane
+DB06705,Gadofosveset trisodium
+DB06706,Isometheptene
+DB06707,Levonordefrin
+DB06708,Lumefantrine
+DB06709,Methacholine
+DB06710,Methyltestosterone
+DB06711,Naphazoline
+DB06712,Nilvadipine
+DB06713,Norelgestromin
+DB06715,Potassium Iodide
+DB06716,Fospropofol
+DB06717,Fosaprepitant
+DB06718,Stanozolol
+DB06719,Buserelin
+DB06721,Gimatecan
+DB06723,Aluminum hydroxide
+DB06724,Calcium carbonate
+DB06725,Lornoxicam
+DB06726,Bufuralol
+DB06727,Sparteine
+DB06728,Aniline
+DB06729,Sulfaphenazole
+DB06730,Gestodene
+DB06731,Seproxetine
+DB06732,beta-Naphthoflavone
+DB06733,Bafilomycin A1
+DB06735,Enclomiphene
+DB06736,Aceclofenac
+DB06737,Zaltoprofen
+DB06738,Ketobemidone
+DB06739,Seratrodast
+DB06741,Gavestinel
+DB06742,Ambroxol
+DB06748,Ginsenoside C
+DB06749,Ginsenoside Rb1
+DB06751,Drotaverine
+DB06753,Triclofos
+DB06754,Danaparoid
+DB06755,Beta carotene
+DB06756,Glycine betaine
+DB06759,Fomivirsen
+DB06761,Beractant
+DB06762,Pinacidil
+DB06763,Saralasin
+DB06764,Tetryzoline
+DB06766,Alcaftadine
+DB06767,Ammonium chloride
+DB06769,Bendamustine
+DB06770,Benzyl alcohol
+DB06771,Besifloxacin
+DB06772,Cabazitaxel
+DB06773,Human calcitonin
+DB06774,Capsaicin
+DB06777,Chenodeoxycholic acid
+DB06779,Dalteparin
+DB06780,Desoxycorticosterone acetate
+DB06781,Difluprednate
+DB06782,Dimercaprol
+DB06783,Prussian blue
+DB06786,Halcinonide
+DB06787,Hexocyclium
+DB06788,Histrelin
+DB06789,Hydroxyprogesterone caproate
+DB06791,Lanreotide
+DB06792,Lanthanum carbonate
+DB06793,Levopropoxyphene
+DB06795,Mafenide
+DB06796,Mangafodipir
+DB06797,Mebutamate
+DB06799,Methenamine
+DB06800,Methylnaltrexone
+DB06802,Nepafenac
+DB06803,Niclosamide
+DB06804,Nonoxynol-9
+DB06807,Phenyl aminosalicylate
+DB06809,Plerixafor
+DB06810,Plicamycin
+DB06811,Polidocanol
+DB06813,Pralatrexate
+DB06814,Protokylol
+DB06815,Pyrithione
+DB06817,Raltegravir
+DB06819,Phenylbutyric acid
+DB06820,Sulconazole
+DB06821,Sulfameter
+DB06822,Tinzaparin
+DB06823,Tiopronin
+DB06824,Triethylenetetramine
+DB06825,Triptorelin
+DB06826,Unoprostone
+DB06827,Viomycin
+DB07069,m-Hydroxyhippuric acid
+DB07118,Hymecromone
+DB07232,Veliparib
+DB07348,Brefeldin A
+DB07374,Anisomycin
+DB07402,Azapropazone
+DB07447,5beta-dihydrotestosterone
+DB07477,Felbinac
+DB07565,Chloramphenicol succinate
+DB07615,Tranilast
+DB07637,Dibromotyrosine
+DB07706,2-Hydroxyestradiol
+DB07715,Emodin
+DB07720,Epibatidine
+DB07767,Ferulic acid
+DB07768,Epitestosterone
+DB07780,Farnesyl diphosphate
+DB07841,Geranylgeranyl diphosphate
+DB07931,Hexestrol
+DB07954,3-isobutyl-1-methyl-7H-xanthine
+DB07996,5-(2-methylpiperazine-1-sulfonyl)isoquinoline
+DB08059,Wortmannin
+DB08162,Fasudil
+DB08167,Methylthioninium
+DB08188,Emivirine
+DB08313,Nocodazole
+DB08329,Sulthiame
+DB08382,Gosogliptin
+DB08399,Piceatannol
+DB08437,Puromycin
+DB08439,Parecoxib
+DB08455,Ro 12-7310
+DB08486,Efaproxiral
+DB08496,(R)-warfarin
+DB08502,Capravirine
+DB08550,"7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline"
+DB08619,Testosterone succinate
+DB08621,Thiamphenicol
+DB08633,TNP-470
+DB08639,Dapivirine
+DB08735,"R,S-Warfarin alcohol"
+DB08736,"S,R-Warfarin alcohol"
+DB08783,(4-{(2S)-2-[(tert-butoxycarbonyl)amino]-3-methoxy-3-oxopropyl}phenyl)methaneseleninic acid
+DB08794,Ethyl biscoumacetate
+DB08795,Azidocillin
+DB08797,Salicylamide
+DB08798,Sulfamoxole
+DB08799,Antazoline
+DB08800,Chloropyramine
+DB08801,Dimetindene
+DB08802,Isothipendyl
+DB08804,Nandrolone decanoate
+DB08805,Metiamide
+DB08806,Roxatidine acetate
+DB08807,Bopindolol
+DB08808,Bupranolol
+DB08810,Cinitapride
+DB08811,Tofisopam
+DB08813,Nadroparin
+DB08814,Triflusal
+DB08815,Lurasidone
+DB08816,Ticagrelor
+DB08819,Tafluprost
+DB08820,Ivacaftor
+DB08822,Azilsartan medoxomil
+DB08824,Ioflupane I-123
+DB08826,Deferiprone
+DB08827,Lomitapide
+DB08828,Vismodegib
+DB08830,Dehydroascorbic acid
+DB08833,Taurochenodeoxycholic acid
+DB08834,Tauroursodeoxycholic acid
+DB08836,Temocapril
+DB08837,Tetraethylammonium
+DB08838,Agmatine
+DB08839,Serotonin
+DB08840,N-methylnicotinamide
+DB08841,Tyramine
+DB08844,Uric acid
+DB08846,Ellagic acid
+DB08857,Bamet-UD2
+DB08858,cis-Diamminechlorocholylglycinateplatinum(II)
+DB08860,Pitavastatin
+DB08861,DPDPE
+DB08862,Cholecystokinin
+DB08864,Rilpivirine
+DB08865,Crizotinib
+DB08867,Ulipristal
+DB08868,Fingolimod
+DB08869,Tesamorelin
+DB08870,Brentuximab vedotin
+DB08871,Eribulin
+DB08872,Gabapentin enacarbil
+DB08873,Boceprevir
+DB08874,Fidaxomicin
+DB08875,Cabozantinib
+DB08877,Ruxolitinib
+DB08878,Aminopterin
+DB08879,Belimumab
+DB08880,Teriflunomide
+DB08881,Vemurafenib
+DB08882,Linagliptin
+DB08883,Perampanel
+DB08884,Gadoxetic acid
+DB08885,Aflibercept
+DB08886,Asparaginase Erwinia chrysanthemi
+DB08887,Icosapent ethyl
+DB08889,Carfilzomib
+DB08890,Linaclotide
+DB08892,Arbaclofen Placarbil
+DB08893,Mirabegron
+DB08894,Peginesatide
+DB08895,Tofacitinib
+DB08896,Regorafenib
+DB08897,Aclidinium
+DB08898,Glucarpidase
+DB08899,Enzalutamide
+DB08900,Teduglutide
+DB08901,Ponatinib
+DB08902,Raxibacumab
+DB08903,Bedaquiline
+DB08904,Certolizumab pegol
+DB08905,Formestane
+DB08906,Fluticasone furoate
+DB08907,Canagliflozin
+DB08908,Dimethyl fumarate
+DB08909,Glycerol phenylbutyrate
+DB08910,Pomalidomide
+DB08911,Trametinib
+DB08912,Dabrafenib
+DB08913,Radium Ra 223 dichloride
+DB08916,Afatinib
+DB08917,Ferric carboxymaltose
+DB08918,Levomilnacipran
+DB08922,Perospirone
+DB08925,Adrafinil
+DB08927,Amperozide
+DB08930,Dolutegravir
+DB08931,Riociguat
+DB08932,Macitentan
+DB08933,Luliconazole
+DB08934,Sofosbuvir
+DB08935,Obinutuzumab
+DB08936,Chlorcyclizine
+DB08938,Magaldrate
+DB08940,Kebuzone
+DB08941,Isoxsuprine
+DB08942,Isoxicam
+DB08943,Isoconazole
+DB08947,Iopamidol
+DB08949,Inositol nicotinate
+DB08950,Indoramin
+DB08951,Indoprofen
+DB08952,Indenolol
+DB08953,Indalpine
+DB08954,Ifenprodil
+DB08955,Ibuproxam
+DB08957,Hexoprenaline
+DB08958,Hexetidine
+DB08960,Hexamethonium
+DB08961,Azosemide
+DB08962,Glibornuride
+DB08964,Gemeprost
+DB08965,Fusafungine
+DB08967,Dimetotiazine
+DB08970,Fluprednidene
+DB08971,Fluocortolone
+DB08972,Flumequine
+DB08974,Flubendazole
+DB08976,Floctafenine
+DB08980,Fendiline
+DB08981,Fenbufen
+DB08983,Etofibrate
+DB08984,Etofenamate
+DB08985,Etilefrine
+DB08986,Etifoxine
+DB08987,Etidocaine
+DB08991,Epirizole
+DB08992,Eperisone
+DB08993,Enviomycin
+DB08994,Ditazole
+DB08996,Dimetacrine
+DB08997,Dexetimide
+DB08999,Cyclopentamine
+DB09000,Cyamemazine
+DB09001,Barbexaclone
+DB09007,Chlorphenoxamine
+DB09008,Cefaloridine
+DB09009,Articaine
+DB09010,Carmofur
+DB09011,Beclamide
+DB09013,Befunolol
+DB09014,Captodiame
+DB09015,Canrenoic acid
+DB09016,Butriptyline
+DB09017,Brotizolam
+DB09018,Bromopride
+DB09020,Bisacodyl
+DB09021,Benzoctamine
+DB09022,Benfluorex
+DB09023,Benactyzine
+DB09026,Aliskiren
+DB09027,Ledipasvir
+DB09029,Secukinumab
+DB09030,Vorapaxar
+DB09031,Miltefosine
+DB09033,Vedolizumab
+DB09034,Suvorexant
+DB09035,Nivolumab
+DB09036,Siltuximab
+DB09037,Pembrolizumab
+DB09038,Empagliflozin
+DB09039,Eliglustat
+DB09042,Tedizolid phosphate
+DB09043,Albiglutide
+DB09045,Dulaglutide
+DB09046,Metreleptin
+DB09047,Finafloxacin
+DB09048,Netupitant
+DB09049,Naloxegol
+DB09050,Ceftolozane
+DB09052,Blinatumomab
+DB09053,Ibrutinib
+DB09054,Idelalisib
+DB09055,Acipimox
+DB09056,Amorolfine
+DB09057,Anthrax immune globulin human
+DB09059,Atosiban
+DB09060,Avibactam
+DB09061,Cannabidiol
+DB09062,Cefminox
+DB09063,Ceritinib
+DB09064,Ciprofibrate
+DB09065,Cobicistat
+DB09066,Corifollitropin alfa
+DB09067,Corticorelin ovine triflutate
+DB09068,Vortioxetine
+DB09069,Trimetazidine
+DB09070,Tibolone
+DB09071,Tasimelteon
+DB09072,Sodium oxybate
+DB09073,Palbociclib
+DB09074,Olaparib
+DB09075,Edoxaban
+DB09076,Umeclidinium
+DB09077,Dinutuximab
+DB09078,Lenvatinib
+DB09079,Nintedanib
+DB09080,Olodaterol
+DB09081,Idebenone
+DB09082,Vilanterol
+DB09083,Ivabradine
+DB09084,Benzydamine
+DB09085,Tetracaine
+DB09087,Potassium alum
+DB09089,Trimebutine
+DB09090,Pinaverium
+DB09091,Tixocortol
+DB09092,Xanthinol
+DB09093,Chlortetracycline
+DB09095,Difluocortolone
+DB09096,Benzoyl peroxide
+DB09097,Quinagolide
+DB09098,Somatrem
+DB09099,Somatostatin
+DB09100,"Thyroid, porcine"
+DB09101,Elvitegravir
+DB09102,Daclatasvir
+DB09103,Ancestim
+DB09104,Magnesium hydroxide
+DB09105,Asfotase alfa
+DB09106,Hydroxyethyl Starch
+DB09107,Methoxy polyethylene glycol-epoetin beta
+DB09109,Turoctocog alfa
+DB09111,Pentastarch
+DB09112,Nitrous acid
+DB09113,Poractant alfa
+DB09116,Calcium carbimide
+DB09117,Paraldehyde
+DB09118,Stiripentol
+DB09119,Eslicarbazepine acetate
+DB09121,Aurothioglucose
+DB09122,Peginterferon beta-1a
+DB09123,Dienogest
+DB09124,Medrogestone
+DB09125,Potassium citrate
+DB09128,Brexpiprazole
+DB09129,Chromic chloride
+DB09130,Copper
+DB09132,Gadoteric acid
+DB09133,Iothalamic acid
+DB09134,Ioversol
+DB09135,Ioxilan
+DB09136,Isosulfan blue
+DB09137,Technetium Tc-99m mebrofenin
+DB09139,Technetium Tc-99m oxidronate
+DB09142,Sincalide
+DB09143,Sonidegib
+DB09146,Iron sucrose
+DB09147,Ferric pyrophosphate
+DB09148,Florbetaben (18F)
+DB09149,Florbetapir (18F)
+DB09153,Sodium chloride
+DB09154,Sodium citrate
+DB09156,Iopromide
+DB09161,Technetium Tc-99m sestamibi
+DB09163,Technetium Tc-99m exametazime
+DB09165,Technetium Tc-99m pyrophosphate
+DB09166,Etizolam
+DB09167,Dosulepin
+DB09173,Butyrfentanyl
+DB09174,Lofentanil
+DB09183,Dasabuvir
+DB09184,Edivoxetine
+DB09185,Viloxazine
+DB09186,Nisoxetine
+DB09187,Lortalamine
+DB09190,Talopram
+DB09194,Etoperidone
+DB09195,Lorpiprazole
+DB09198,Lobeglitazone
+DB09199,Netoglitazone
+DB09200,Rivoglitazone
+DB09201,Ciglitazone
+DB09202,Cirazoline
+DB09203,Synephrine
+DB09204,Arotinolol
+DB09205,Moxisylyte
+DB09206,Trimazosin
+DB09207,AS-8112
+DB09208,Pegloticase
+DB09209,Pholcodine
+DB09210,Piracetam
+DB09211,Limaprost
+DB09212,Loxoprofen
+DB09213,Dexibuprofen
+DB09214,Dexketoprofen
+DB09215,Droxicam
+DB09216,Tolfenamic acid
+DB09217,Firocoxib
+DB09218,Clonixin
+DB09219,Bisoxatin
+DB09220,Nicorandil
+DB09221,Polaprezinc
+DB09222,Fibrinogen human
+DB09223,Blonanserin
+DB09224,Melperone
+DB09225,Zotepine
+DB09226,Brilaroxazine
+DB09227,Barnidipine
+DB09228,Conestat alfa
+DB09229,Aranidipine
+DB09230,Azelnidipine
+DB09231,Benidipine
+DB09232,Cilnidipine
+DB09234,Darodipine
+DB09235,Efonidipine
+DB09236,Lacidipine
+DB09237,Levamlodipine
+DB09238,Manidipine
+DB09239,Niguldipine
+DB09240,Niludipine
+DB09241,Methylene blue
+DB09242,Moxonidine
+DB09243,Hydracarbazine
+DB09244,Pirlindole
+DB09245,Toloxatone
+DB09246,Benmoxin
+DB09247,Iproclozide
+DB09248,Mebanazine
+DB09249,Octamoxin
+DB09250,Pheniprazine
+DB09251,Phenoxypropazine
+DB09252,Pivhydrazine
+DB09253,Safrazine
+DB09254,Caroxazone
+DB09255,Dextran
+DB09256,Tegafur
+DB09257,Gimeracil
+DB09258,Bemiparin
+DB09259,Reviparin
+DB09260,Parnaparin
+DB09261,Certoparin
+DB09262,Imidafenacin
+DB09263,Patiromer
+DB09264,Idarucizumab
+DB09265,Lixisenatide
+DB09266,Technetium Tc-99m tilmanocept
+DB09267,Strontium ranelate
+DB09268,Picosulfuric acid
+DB09269,Phenylacetic acid
+DB09270,Ubidecarenone
+DB09271,Cimetropium
+DB09272,Eluxadoline
+DB09273,Doxofylline
+DB09274,Artesunate
+DB09275,Bismuth subcitrate potassium
+DB09276,Sodium aurothiomalate
+DB09277,Choline C 11
+DB09278,Activated charcoal
+DB09279,Fimasartan
+DB09280,Lumacaftor
+DB09281,Magnesium trisilicate
+DB09282,Molsidomine
+DB09283,Trapidil
+DB09284,Imolamine
+DB09285,Morniflumate
+DB09286,Pipamperone
+DB09287,Polyethylene glycol
+DB09288,Propacetamol
+DB09289,Tianeptine
+DB09290,Ramosetron
+DB09291,Rolapitant
+DB09292,Sacubitril
+DB09293,Iodide I-131
+DB09295,Talniflumate
+DB09296,Ombitasvir
+DB09297,Paritaprevir
+DB09298,Silibinin
+DB09299,Tenofovir alafenamide
+DB09300,Butylscopolamine
+DB09301,Chondroitin sulfate
+DB09302,Alirocumab
+DB09303,Evolocumab
+DB09304,Setiptiline
+DB09305,Aptazapine
+DB09307,Oxaprotiline
+DB09308,Solithromycin
+DB09309,Kitasamycin
+DB09310,Catridecacog
+DB09311,Polycarbophil
+DB09312,Antilymphocyte immunoglobulin (horse)
+DB09317,"Synthetic Conjugated Estrogens, A"
+DB09318,"Synthetic Conjugated Estrogens, B"
+DB09319,Carindacillin
+DB09320,Procaine benzylpenicillin
+DB09321,Zinc oxide
+DB09322,Zinc sulfate
+DB09324,Sulbactam
+DB09325,Sodium fluoride
+DB09327,Tegafur-uracil
+DB09328,Vayarin
+DB09329,"Antihemophilic Factor (Recombinant), PEGylated"
+DB09330,Osimertinib
+DB09331,Daratumumab
+DB09335,Alatrofloxacin
+DB09338,Mersalyl
+DB09341,"Dextrose, unspecified form"
+DB09342,Propoxycaine
+DB09343,Tipiracil
+DB09344,Invert sugar
+DB09345,Pramocaine
+DB09351,Levobetaxolol
+DB09352,Hydroxyamphetamine
+DB09357,Dexpanthenol
+DB09363,Rauwolfia serpentina root
+DB09369,Polyestradiol phosphate
+DB09371,Norethynodrel
+DB09374,Indocyanine green acid form
+DB09378,Fluprednisolone
+DB09381,Esterified estrogens
+DB09383,Meprednisone
+DB09389,Norgestrel
+DB09394,Phosphoric acid
+DB09395,Sodium acetate
+DB09400,Selenomethionine Se-75
+DB09401,Isosorbide
+DB09407,Magnesium chloride
+DB09409,Magnesium acetate tetrahydrate
+DB09413,Monopotassium phosphate
+DB09414,Dipotassium phosphate
+DB09418,Potassium perchlorate
+DB09421,Protirelin
+DB09449,"Sodium phosphate, monobasic"
+DB09456,Insulin beef
+DB09459,L-tartaric acid
+DB09462,Glycerin
+DB09472,Sodium sulfate
+DB09477,Enalaprilat
+DB09480,Iofetamine I-123
+DB09481,Magnesium carbonate
+DB09483,Potassium lactate
+DB09484,Sodium fluorophosphate
+DB09488,Acrivastine
+DB09496,Octinoxate
+DB09499,Thiosulfuric acid
+DB09501,Ferric ammonium citrate
+DB09502,Fludeoxyglucose (18F)
+DB09507,Ferumoxsil
+DB09508,Ferumoxides
+DB09511,Talc
+DB09517,Sodium ferric gluconate complex
+DB09527,Secretin porcine
+DB09532,Secretin human
+DB09536,Titanium dioxide
+DB09539,Omega-3-acid ethyl esters
+DB09543,Methyl salicylate
+DB09546,Iobenguane sulfate I-123
+DB09555,Dexchlorpheniramine maleate
+DB09559,Necitumumab
+DB09564,Insulin degludec
+DB09568,Omega-3-carboxylic acids
+DB09570,Ixazomib
+DB10062,"Rabies virus inactivated antigen, B"
+DB10076,Haemophilus influenzae type B strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen
+DB10276,Rotavirus vaccine
+DB10283,"Rabies virus inactivated antigen, A"
+DB10317,Rubella virus vaccine
+DB10318,Varicella Zoster Vaccine (Live/attenuated)
+DB10342,Haemophilus influenzae type B capsular polysaccharide meningococcal outer membrane protein conjugate antigen
+DB10343,Bacillus calmette-guerin substrain tice live antigen
+DB10349,Paspalum notatum pollen
+DB10351,Cynodon dactylon pollen
+DB10353,Poa annua pollen
+DB10365,Sorghum halepense pollen
+DB10366,Poa pratensis pollen
+DB10370,Festuca pratensis pollen
+DB10379,Dactylis glomerata pollen
+DB10389,Lolium perenne pollen
+DB10394,Phleum pratense pollen
+DB10395,Holcus lanatus pollen
+DB10403,Agrostis gigantea pollen
+DB10404,Anthoxanthum odoratum pollen
+DB10489,Elymus repens pollen
+DB10494,Distichlis spicata pollen
+DB10532,Garlic
+DB10583,Clostridium tetani toxoid antigen (formaldehyde inactivated)
+DB10584,Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated)
+DB10600,Influenza A virus A/California/7/2009 X-181 (H1N1) antigen (propiolactone inactivated)
+DB10713,Poa compressa pollen
+DB10714,Phalaris arundinacea pollen
+DB10715,Bouteloua gracilis pollen
+DB10716,Urochloa mutica pollen
+DB10717,Secale cereale pollen
+DB10719,Pascopyrum smithii pollen
+DB10769,Japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated)
+DB10794,Influenza B virus B/Brisbane/60/2008 antigen (formaldehyde inactivated)
+DB10803,Typhoid Vi polysaccharide vaccine
+DB10804,Bacillus calmette-guerin substrain connaught live antigen
+DB10805,Yellow Fever Vaccine
+DB10836,Bromus secalinus pollen
+DB10879,Arrhenatherum elatius pollen
+DB10949,Koeleria macrantha pollen
+DB10962,Agrostis stolonifera pollen
+DB10963,Phalaris minor pollen
+DB10964,Lolium perenne subsp. multiflorum pollen
+DB10966,Sorghum bicolor subsp. drummondii pollen
+DB10989,Hepatitis A Vaccine
+DB10990,Haemophilus influenzae type B strain 20752 capsular polysaccharide tetanus toxoid conjugate antigen
+DB11003,Anthrax vaccine
+DB11038,Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated)
+DB11040,Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (propiolactone inactivated)
+DB11041,Influenza A virus A/California/7/2009 X-181 (H1N1) hemagglutinin antigen (propiolactone inactivated)
+DB11044,Influenza B virus B/Brisbane/60/2008 antigen (propiolactone inactivated)
+DB11050,Typhoid Vaccine Live
+DB11051,Azficel-T
+DB11057,Mineral oil
+DB11059,Carboxymethylcellulose
+DB11068,Selenic acid
+DB11074,Dimethicone
+DB11077,Polyethylene glycol 400
+DB11079,Trolamine salicylate
+DB11081,Aluminum chloride
+DB11085,Resorcinol
+DB11089,Docusate
+DB11090,Potassium nitrate
+DB11091,Hydrogen peroxide
+DB11093,Calcium citrate
+DB11094,Vitamin D
+DB11095,Desirudin
+DB11097,Plantago seed
+DB11098,Potassium bicarbonate
+DB11102,N-acetyltyrosine
+DB11107,Potassium bitartrate
+DB11110,Magnesium citrate
+DB11113,Castor oil
+DB11114,Eucalyptus oil
+DB11121,Chloroxylenol
+DB11124,Racepinephrine
+DB11126,Calcium gluconate
+DB11127,Selenious acid
+DB11130,Opium
+DB11133,Omega-3 fatty acids
+DB11135,Selenium
+DB11136,Chromium
+DB11142,Selenomethionine
+DB11145,Oxyquinoline
+DB11148,Butamben
+DB11153,Potassium hydroxide
+DB11154,Zinc citrate
+DB11156,Pyrantel
+DB11164,Bicisate
+DB11166,Antithrombin Alfa
+DB11168,Calcium threonate
+DB11171,Ferric sulfate
+DB11175,Zinc picolinate
+DB11181,Homatropine
+DB11189,Magnesium glycinate
+DB11198,Peppermint oil
+DB11199,Sage oil
+DB11210,Ferrous bisglycinate
+DB11228,Methylcellulose
+DB11230,Magnesium Aluminum Silicate
+DB11231,Lycopene
+DB11235,Thonzylamine
+DB11238,Borage oil
+DB11239,Aluminum sulfate
+DB11248,Zinc gluconate
+DB11251,Tocopherol
+DB11256,Levomefolic acid
+DB11268,Protocatechualdehyde
+DB11273,Dihydroergocornine
+DB11274,Dihydro-alpha-ergocryptine
+DB11278,DL-Methylephedrine
+DB11281,Bismuth subcarbonate
+DB11282,Diethyltoluamide
+DB11306,Bentonite
+DB11311,Prothrombin
+DB11312,Protein C
+DB11315,Methscopolamine
+DB11328,Tetradecyl hydrogen sulfate (ester)
+DB11330,Factor IX Complex (Human)
+DB11338,Clove oil
+DB11348,Calcium Phosphate
+DB11352,Ascorbyl phosphate
+DB11358,Evening primrose oil
+DB11362,Selexipag
+DB11363,Alectinib
+DB11364,Pidotimod
+DB11365,Sennosides
+DB11366,Roquinimex
+DB11367,Cefroxadine
+DB11371,Alfaxalone
+DB11372,Altrenogest
+DB11373,Amitraz
+DB11375,Avilamycin
+DB11376,Azaperone
+DB11377,Bambermycins
+DB11380,Cambendazole
+DB11383,Carbomycin
+DB11387,Chloroform
+DB11389,Clorsulon
+DB11390,Coumaphos
+DB11397,Dichlorvos
+DB11400,Doramectin
+DB11401,Efrotomycin
+DB11404,Enrofloxacin
+DB11405,Eprinomectin
+DB11408,Famphur
+DB11410,Fenbendazole
+DB11411,Fenprostalene
+DB11412,Fenthion
+DB11413,Florfenicol
+DB11416,Gamithromycin
+DB11417,Gleptoferron
+DB11419,Haloxon
+DB11423,Lasalocid
+DB11425,Luprostiol
+DB11426,Marbofloxacin
+DB11428,Medetomidine
+DB11429,Mibolerone
+DB11432,Narasin
+DB11442,Oleandomycin
+DB11443,Orbifloxacin
+DB11446,Oxfendazole
+DB11447,Phenothiazine
+DB11448,Phosmet
+DB11454,Prostalene
+DB11455,Robenacoxib
+DB11458,Roxarsone
+DB11459,Selamectin
+DB11461,Sulfachlorpyridazine
+DB11462,Sulfaethoxypyridazine
+DB11463,Sulfanitran
+DB11464,Sulfaquinoxaline
+DB11466,Tepoxalin
+DB11467,Thiostrepton
+DB11468,Tiamulin
+DB11470,Tildipirosin
+DB11471,Tilmicosin
+DB11473,Metrifonate
+DB11474,Tulathromycin A
+DB11475,Tylosin
+DB11477,Xylazine
+DB11478,Zeranol
+DB11480,Zoalene
+DB11481,Atipamezole
+DB11485,Ceftiofur
+DB11487,Dexamethasone isonicotinate
+DB11490,Nalorphine
+DB11491,Sarafloxacin
+DB11493,Sodium tripolyphosphate
+DB11502,Butacaine
+DB11507,Cloprostenol
+DB11510,Deslorelin
+DB11511,Difloxacin
+DB11512,Dihydrostreptomycin
+DB11518,Flunixin
+DB11519,Fluprostenol
+DB11520,Hygromycin B
+DB11525,Maduramicin
+DB11526,Masitinib
+DB11529,Melengestrol
+DB11537,Pirlimycin
+DB11540,Propiopromazine
+DB11541,Ractopamine
+DB11543,Romifidine
+DB11544,Salinomycin
+DB11549,Tiletamine
+DB11552,Tricaine
+DB11554,Tylvalosin
+DB11555,Zolazepam
+DB11556,Detomidine
+DB11560,Lesinurad
+DB11564,Insulin argine
+DB11567,Insulin peglispro
+DB11568,Insulin tregopil
+DB11569,Ixekizumab
+DB11574,Elbasvir
+DB11575,Grazoprevir
+DB11576,Ferric oxide
+DB11577,Indigotindisulfonic acid
+DB11580,Ravulizumab
+DB11581,Venetoclax
+DB11582,Thiocolchicoside
+DB11586,Asunaprevir
+DB11587,Etafedrine
+DB11590,Thimerosal
+DB11591,Bilastine
+DB11593,Isatoic anhydride
+DB11595,Atezolizumab
+DB11596,Levoleucovorin
+DB11598,Antithrombin III human
+DB11603,Human rabies virus immune globulin
+DB11604,Tetanus Immune Globulin
+DB11606,Susoctocog alfa
+DB11608,Eftrenonacog alfa
+DB11609,Normethadone
+DB11613,Velpatasvir
+DB11614,Rupatadine
+DB11616,Pirarubicin
+DB11617,Aclarubicin
+DB11618,Zorubicin
+DB11619,Gestrinone
+DB11621,Human Varicella-Zoster Immune Globulin
+DB11622,Dehydrocholic acid
+DB11624,Epoetin delta
+DB11627,Hepatitis B Vaccine (Recombinant)
+DB11630,Temoporfin
+DB11632,Opicapone
+DB11633,Isavuconazole
+DB11635,Tocofersolan
+DB11636,Nomegestrol
+DB11637,Delamanid
+DB11638,Artenimol
+DB11640,Amifampridine
+DB11641,Vinflunine
+DB11642,Pitolisant
+DB11644,Tafamidis
+DB11646,Conatumumab
+DB11651,Dactolisib
+DB11652,Tucatinib
+DB11653,Bremelanotide
+DB11657,Tabalumab
+DB11660,Latanoprostene bunod
+DB11661,Eptacog alfa pegol (activated)
+DB11662,Rabusertib
+DB11664,Psilocybin
+DB11668,Rusalatide acetate
+DB11669,Ortataxel
+DB11672,Curcumin
+DB11674,Equol
+DB11675,Mosapride
+DB11678,Treosulfan
+DB11680,Ficlatuzumab
+DB11685,Figitumumab
+DB11686,Iferanserin
+DB11688,2-chloroethyl-3-sarcosinamide-1-nitrosourea
+DB11689,Selumetinib
+DB11691,Naldemedine
+DB11693,Voclosporin
+DB11694,Ilorasertib
+DB11697,Pacritinib
+DB11698,Ipragliflozin
+DB11699,Tropisetron
+DB11703,Acalabrutinib
+DB11707,Olaptesed Pegol
+DB11708,Peficitinib
+DB11712,Tezacaftor
+DB11713,Ruzasvir
+DB11714,Durvalumab
+DB11715,Bapineuzumab
+DB11716,Misonidazole
+DB11717,Epacadostat
+DB11718,Encorafenib
+DB11720,Angiotensin 1-7
+DB11723,Dutogliptin
+DB11727,Endostar
+DB11730,Ribociclib
+DB11731,Depatuxizumab mafodotin
+DB11732,Lasmiditan
+DB11737,Icotinib
+DB11738,Rilmenidine
+DB11742,Ebastine
+DB11744,Epetraborole
+DB11746,Onartuzumab
+DB11750,Clobetasol
+DB11751,Cabotegravir
+DB11752,Bryostatin 1
+DB11753,Rifamycin
+DB11755,Tetrahydrocannabivarin
+DB11756,Solanezumab
+DB11757,Istradefylline
+DB11758,Cenicriviroc
+DB11760,Talazoparib
+DB11767,Sarilumab
+DB11770,Talinolol
+DB11771,Tremelimumab
+DB11774,Pazufloxacin
+DB11776,Brodalumab
+DB11779,Danoprevir
+DB11780,Allicin
+DB11783,Imidapril
+DB11785,Anisodamine
+DB11789,Hyodeoxycholic Acid
+DB11792,Mirodenafil
+DB11793,Niraparib
+DB11795,GSK-2636771
+DB11799,Bictegravir
+DB11800,Tivozanib
+DB11803,Sirukumab
+DB11805,Saracatinib
+DB11808,Faldaprevir
+DB11809,Artefenomel
+DB11812,Talaporfin
+DB11817,Baricitinib
+DB11823,Esketamine
+DB11824,Tofogliflozin
+DB11826,Lampalizumab
+DB11827,Ertugliflozin
+DB11828,Neratinib
+DB11830,Mocetinostat
+DB11832,Crenolanib
+DB11834,Guselkumab
+DB11837,Osilodrostat
+DB11840,Dalotuzumab
+DB11841,Entinostat
+DB11842,Angiotensin II
+DB11844,Pritelivir
+DB11849,Emibetuzumab
+DB11850,Ublituximab
+DB11855,Revefenacin
+DB11856,Ligelizumab
+DB11857,Seribantumab
+DB11859,Brexanolone
+DB11860,Aramchol
+DB11862,Landogrozumab
+DB11866,Romosozumab
+DB11868,Etiracetam
+DB11869,Valspodar
+DB11871,PF-00610355
+DB11873,Verinurad
+DB11880,Acridine Carboxamide
+DB11884,Vadastuximab Talirine
+DB11886,Infigratinib
+DB11888,Laninamivir octanoate
+DB11889,Lanicemine
+DB11891,CUDC-907
+DB11892,Prulifloxacin
+DB11894,Efatutazone
+DB11898,"2,4-thiazolidinedione"
+DB11901,Apalutamide
+DB11903,GW842166
+DB11904,Flumatinib
+DB11907,Rociletinib
+DB11912,Lanopepden
+DB11914,Lebrikizumab
+DB11915,Valbenazine
+DB11918,Guadecitabine
+DB11919,6-O-benzylguanine
+DB11921,Deflazacort
+DB11930,Varlilumab
+DB11935,Flomoxef
+DB11936,Bempedoic acid
+DB11942,Selinexor
+DB11943,Delafloxacin
+DB11944,Ingavirin
+DB11945,Avelumab
+DB11948,Lapachone
+DB11950,Teneligliptin
+DB11951,Lemborexant
+DB11952,Duvelisib
+DB11957,Idalopirdine
+DB11959,Crenezumab
+DB11960,Carboxyamidotriazole
+DB11963,Dacomitinib
+DB11964,Ilaprazole
+DB11967,Binimetinib
+DB11972,Rilotumumab
+DB11973,Tesevatinib
+DB11976,Anifrolumab
+DB11978,Glasdegib
+DB11979,Elagolix
+DB11984,Letaxaban
+DB11986,Entrectinib
+DB11988,Ocrelizumab
+DB11989,Benznidazole
+DB11992,Omarigliptin
+DB11994,Diacerein
+DB11995,Avatrombopag
+DB11998,Sorivudine
+DB11999,Vosaroxin
+DB12001,Abemaciclib
+DB12007,Isoflavone
+DB12010,Fostamatinib
+DB12013,Axelopran
+DB12015,Alpelisib
+DB12020,Tecovirimat
+DB12023,Benralizumab
+DB12025,Triptolide
+DB12026,Voxilaprevir
+DB12028,Broxuridine
+DB12034,Gantenerumab
+DB12035,Sarecycline
+DB12036,Naquotinib
+DB12037,Vedroprevir
+DB12048,Savolitinib
+DB12051,Setrobuvir
+DB12053,Visilizumab
+DB12054,BQ-123
+DB12056,Trebananib
+DB12057,ORM-12741
+DB12062,Volasertib
+DB12070,Letermovir
+DB12071,Vabicaserin
+DB12073,Albaconazole
+DB12077,Urelumab
+DB12080,Ritobegron
+DB12081,Anecortave
+DB12082,Vesnarinone
+DB12083,Mafosfamide
+DB12085,LCL-161
+DB12086,Oxitropium
+DB12089,Lorvotuzumab mertansine
+DB12090,Patritumab
+DB12092,Naftopidil
+DB12093,Tetrahydropalmatine
+DB12097,Mannitol busulfan
+DB12100,Abediterol
+DB12102,Fulranumab
+DB12104,Tarextumab
+DB12105,Imagabalin
+DB12107,Vaborbactam
+DB12108,Taselisib
+DB12110,m-Chlorophenylpiperazine
+DB12111,MK-212
+DB12112,Zuretinol acetate
+DB12118,Sotatercept
+DB12119,Gevokizumab
+DB12123,Cinepazide
+DB12124,Namitecan
+DB12126,Bradykinin
+DB12127,Sultamicillin
+DB12130,Lorlatinib
+DB12131,Vinpocetine
+DB12137,GSK-256066
+DB12141,Gilteritinib
+DB12142,Duligotuzumab
+DB12146,Rigosertib
+DB12147,Erdafitinib
+DB12148,Menatetrenone
+DB12151,Brincidofovir
+DB12152,Simtuzumab
+DB12156,Cordycepin
+DB12157,Fasinumab
+DB12159,Dupilumab
+DB12161,Deutetrabenazine
+DB12163,Sarpogrelate
+DB12169,Tralokinumab
+DB12174,CUDC-101
+DB12177,Eplivanserin
+DB12182,Binetrakin
+DB12184,Gepirone
+DB12185,Exatecan
+DB12189,Etrolizumab
+DB12192,Emeramide
+DB12193,Ajulemic acid
+DB12194,Atamestane
+DB12202,Zalutumumab
+DB12205,Ganitumab
+DB12208,Iron isomaltoside 1000
+DB12212,Landiolol
+DB12213,Etaracizumab
+DB12216,Bergapten
+DB12221,Canrenone
+DB12222,Lurtotecan
+DB12225,Beclabuvir
+DB12229,Cerlapirdine
+DB12230,Bunazosin
+DB12231,Temefos
+DB12232,KRN-7000
+DB12240,Polatuzumab vedotin
+DB12243,Edaravone
+DB12245,Triclabendazole
+DB12246,Inclacumab
+DB12248,Tulobuterol
+DB12250,Cixutumumab
+DB12257,Platinum
+DB12258,Abicipar Pegol
+DB12259,CG-200745
+DB12261,Ascrinvacumab
+DB12264,Atevirdine
+DB12266,Epofolate
+DB12267,Brigatinib
+DB12268,Carmegliptin
+DB12273,Ecopipam
+DB12274,Aducanumab
+DB12278,Propiverine
+DB12279,OBP-801
+DB12281,Luspatercept
+DB12286,Simendan
+DB12289,Darexaban
+DB12290,Puerarin
+DB12293,Nefopam
+DB12296,GS-5745
+DB12301,Doravirine
+DB12307,Foretinib
+DB12308,Eltanolone
+DB12313,Dopexamine
+DB12314,Chlorproguanil
+DB12317,Vanucizumab
+DB12319,Benzbromarone
+DB12321,Ifetroban
+DB12323,Radotinib
+DB12327,Salvinorin A
+DB12329,Eravacycline
+DB12331,Labetuzumab govitecan
+DB12332,Rucaparib
+DB12335,Tanezumab
+DB12338,Carisbamate
+DB12339,Radezolid
+DB12340,Navitoclax
+DB12341,LY-2456302
+DB12342,Ensituximab
+DB12343,Temocillin
+DB12344,Fezakinumab
+DB12352,Bizelesin
+DB12361,Piclozotan
+DB12363,Dusigitumab
+DB12364,Betrixaban
+DB12371,Siponimod
+DB12376,Ricolinostat
+DB12377,Relebactam
+DB12379,Indirubin
+DB12381,Merestinib
+DB12382,R-306465
+DB12385,10-hydroxycamptothecin
+DB12386,Bacillus calmette-guerin substrain danish 1331 live antigen
+DB12391,Sagopilone
+DB12395,Esreboxetine
+DB12396,Fresolimumab
+DB12399,Polmacoxib
+DB12401,Bromperidol
+DB12406,Lisofylline
+DB12409,Vatreptacog alfa
+DB12412,Gemigliptin
+DB12413,Indusatumab vedotin
+DB12416,VTP-27999
+DB12417,Anagliptin
+DB12422,Sulforaphane
+DB12425,Liothyronine I-131
+DB12427,Orvepitant
+DB12431,Muplestim
+DB12445,Nitroaspirin
+DB12447,Nadifloxacin
+DB12455,Omadacycline
+DB12456,Bococizumab
+DB12457,Rimegepant
+DB12459,Belotecan
+DB12461,GLPG-0492
+DB12465,Ketanserin
+DB12466,Favipiravir
+DB12470,Dexelvucitabine
+DB12473,Taurolidine
+DB12474,Lynestrenol
+DB12478,Piribedil
+DB12480,Betulinic Acid
+DB12482,Acotiamide
+DB12483,Copanlisib
+DB12487,Promestriene
+DB12489,Mirvetuximab Soravtansine
+DB12492,Piritramide
+DB12498,Mogamulizumab
+DB12500,Fedratinib
+DB12515,9-aminocamptothecin
+DB12518,Raclopride
+DB12520,Plozalizumab
+DB12523,Mizolastine
+DB12525,Molgramostim
+DB12526,Batefenterol
+DB12530,Inebilizumab
+DB12531,Lobucavir
+DB12532,Oxetacaine
+DB12534,Mavrilimumab
+DB12537,Benzodiazepine
+DB12539,Oltipraz
+DB12543,Samidorphan
+DB12545,Indobufen
+DB12549,Pyrazoloacridine
+DB12551,Idazoxan
+DB12554,Mebeverine
+DB12560,Blosozumab
+DB12565,Abexinostat
+DB12568,Tecemotide
+DB12576,AZD-3043
+DB12577,Fosbretabulin
+DB12578,Lexaptepid Pegol
+DB12579,JNJ-37822681
+DB12582,Piperine
+DB12584,Bimagrumab
+DB12585,Ondelopran
+DB12589,Dacetuzumab
+DB12590,Indiplon
+DB12593,Apaziquone
+DB12596,Combretastatin
+DB12598,Nafamostat
+DB12604,Sisomicin
+DB12609,Tovetumab
+DB12610,Ebselen
+DB12612,Ozanimod
+DB12615,Plazomicin
+DB12617,Mizoribine
+DB12625,Evogliptin
+DB12629,"3,5-diiodothyropropionic acid"
+DB12637,Onapristone
+DB12638,PU-H71
+DB12645,Givinostat
+DB12647,Tocotrienol
+DB12649,Ibipinabant
+DB12661,Urapidil
+DB12667,Protionamide
+DB12670,Rolofylline
+DB12671,Beloranib
+DB12677,Soblidotin
+DB12681,Salirasib
+DB12683,Lumretuzumab
+DB12687,Vesatolimod
+DB12688,Moxetumomab Pasudotox
+DB12692,Gusperimus
+DB12693,Ritanserin
+DB12695,Phenethyl Isothiocyanate
+DB12697,Methylselenocysteine
+DB12698,Ibalizumab
+DB12699,Balugrastim
+DB12701,Intetumumab
+DB12704,Spiradoline
+DB12708,Sulprostone
+DB12710,Perazine
+DB12712,Pilsicainide
+DB12713,Sotagliflozin
+DB12718,Carlumab
+DB12725,TD-8954
+DB12726,Monteplase
+DB12730,Dolastatin 10
+DB12734,Demcizumab
+DB12736,Etanidazole
+DB12749,Butylphthalide
+DB12752,Bucindolol
+DB12753,Racivir
+DB12766,Cicletanine
+DB12768,BCG vaccine
+DB12769,Lometrexol
+DB12770,Lafutidine
+DB12771,Hydroxytyrosol
+DB12773,Sifalimumab
+DB12775,Abituzumab
+DB12776,E-6005
+DB12779,Higenamine
+DB12781,Balaglitazone
+DB12783,Benserazide
+DB12789,Dinoprost
+DB12791,Laninamivir
+DB12797,Ecromeximab
+DB12799,Laniquidar
+DB12803,Dichloroisoproterenol
+DB12806,GSK-1004723
+DB12807,Naptumomab Estafenatox
+DB12814,Cepeginterferon alfa-2B
+DB12815,Crotedumab
+DB12820,Concizumab
+DB12821,Perflubutane
+DB12823,Tecarfarin
+DB12825,Lefamulin
+DB12826,Depatuxizumab
+DB12829,Amithiozone
+DB12831,Gabexate
+DB12832,Prednimustine
+DB12833,Tandospirone
+DB12836,Grapiprant
+DB12839,Pegvaliase
+DB12842,Pegamotecan
+DB12843,Oleandrin
+DB12844,Rontalizumab
+DB12845,Amatuximab
+DB12846,Reproterol
+DB12849,Clazakizumab
+DB12866,Pradigastat
+DB12867,Benperidol
+DB12870,Buthionine Sulfoximine
+DB12873,Dianhydrogalactitol
+DB12877,Oxatomide
+DB12881,Indole-3-carbinol
+DB12883,Eltoprazine
+DB12884,Lavoltidine
+DB12887,Tazemetostat
+DB12890,Dihydrexidine
+DB12891,Ozanezumab
+DB12893,Sacituzumab govitecan
+DB12901,Fiacitabine
+DB12902,Trofosfamide
+DB12909,Factor XIII (human)
+DB12912,Nolatrexed
+DB12916,Mitolactol
+DB12917,Bimekizumab
+DB12920,Pinometostat
+DB12921,Chlorsulfaquinoxaline
+DB12923,Gallopamil
+DB12924,Ozenoxacin
+DB12926,Cafedrine
+DB12927,Theodrenaline
+DB12930,Opipramol
+DB12935,Remogliflozin etabonate
+DB12939,Nikkomycin Z
+DB12941,Darolutamide
+DB12942,Lactitol
+DB12943,Milatuzumab
+DB12945,Dihydralazine
+DB12947,Doxifluridine
+DB12948,Didox
+DB12950,Albusomatropin
+DB12951,Pivagabine
+DB12952,Methylprednisone
+DB12958,Prothipendyl
+DB12967,Mitoguazone
+DB12975,Pyronaridine
+DB12976,Robatumumab
+DB12978,Pexidartinib
+DB12987,Penclomedine
+DB12989,Neosaxitoxin
+DB12991,Deoxyspergualin
+DB12996,Acteoside
+DB13001,Tinoridine
+DB13003,Cortivazol
+DB13005,Rebastinib
+DB13007,Enfortumab vedotin
+DB13014,Hypericin
+DB13017,Rovalpituzumab Tesirine
+DB13025,Tiapride
+DB13026,Ornidazole
+DB13027,Tucaresol
+DB13028,Biapenem
+DB13029,MK-0873
+DB13036,Ramatroban
+DB13037,Namilumab
+DB13041,Odalasvir
+DB13044,Gossypol
+DB13045,Racotumomab
+DB13046,Tocladesine
+DB13058,Methanesulfonyl Fluoride
+DB13064,Tramazoline
+DB13066,Liarozole
+DB13068,9-(N-methyl-L-isoleucine)-cyclosporin A
+DB13069,Nimustine
+DB13070,Surinabant
+DB13073,Tregalizumab
+DB13074,Macimorelin
+DB13075,Menaquinone 7
+DB13077,LCB01-0371
+DB13082,Nefiracetam
+DB13092,Meclocycline
+DB13097,1alpha-Hydroxyvitamin D5
+DB13099,Valnoctamide
+DB13104,X-396
+DB13105,Resolvin E1
+DB13108,Mephedrone
+DB13114,Amitriptylinoxide
+DB13124,Troxerutin
+DB13125,Lusutrombopag
+DB13127,Olokizumab
+DB13128,Sizofiran
+DB13132,Artemisinin
+DB13133,Von Willebrand Factor Human
+DB13135,AGN-201904
+DB13136,Fluindione
+DB13139,Levosalbutamol
+DB13140,Bezlotoxumab
+DB13142,Calcium glubionate anhydrous
+DB13143,Methallenestril
+DB13144,Lenograstim
+DB13145,Nedaplatin
+DB13148,Coagulation factor X human
+DB13149,Protein S human
+DB13150,Coagulation factor VII human
+DB13151,Anti-inhibitor coagulant complex
+DB13152,Coagulation Factor IX Human
+DB13155,Esculin
+DB13156,Inosine pranobex
+DB13158,Clobetasone
+DB13160,Alphaprodine
+DB13164,Olmutinib
+DB13166,Zofenopril
+DB13167,Alclofenac
+DB13169,Nandrolone
+DB13170,Plecanatide
+DB13172,Tunicamycin
+DB13174,Rhein
+DB13177,4-methylumbelliferyl beta-D-glucoside
+DB13178,Inositol
+DB13179,Troleandomycin
+DB13180,Gluconic Acid
+DB13182,Daidzein
+DB13185,Oxabolone cipionate
+DB13189,Calcitonin porcine
+DB13191,Phosphocreatine
+DB13192,Antihemophilic factor human
+DB13197,Kallidinogenase
+DB13199,Brinase
+DB13200,Lipegfilgrastim
+DB13201,Trenonacog alfa
+DB13203,Bamifylline
+DB13206,Bamethan
+DB13208,Prednylidene
+DB13209,Bismuth subnitrate
+DB13211,Guanoxan
+DB13213,Butaperazine
+DB13214,Sulfadicramide
+DB13217,Fentiazac
+DB13219,Medifoxamine
+DB13221,Apronalide
+DB13223,Fluocortin
+DB13225,Dibenzepin
+DB13228,Flosequinan
+DB13229,Enibomal
+DB13230,Gestonorone
+DB13231,Calcium lactate
+DB13232,Suxibuzone
+DB13233,Alaproclate
+DB13234,Propanidid
+DB13240,Cymarin
+DB13241,Begelomab
+DB13243,Tiazofurine
+DB13244,Aminomethylbenzoic acid
+DB13246,Quinupramine
+DB13248,Phthalylsulfathiazole
+DB13249,Magnesium silicate
+DB13251,Octopamine
+DB13252,Tropatepine
+DB13253,Proxibarbal
+DB13254,Prifinium
+DB13255,Propatyl nitrate
+DB13256,Clothiapine
+DB13257,Ferrous sulfate anhydrous
+DB13259,Ethyl chloride
+DB13261,Sitafloxacin
+DB13264,Penimepicycline
+DB13265,Hexobendine
+DB13266,Cefatrizine
+DB13269,Dichlorobenzyl alcohol
+DB13270,Dibekacin
+DB13273,Sultopride
+DB13274,Micronomicin
+DB13275,Clorindione
+DB13277,Benziodarone
+DB13279,Carbocromen
+DB13280,Aluminium acetoacetate
+DB13283,Sulfaisodimidine
+DB13284,Meticrane
+DB13286,Bumadizone
+DB13287,Miocamycin
+DB13288,Tromantadine
+DB13292,Pimethixene
+DB13293,Ipecac
+DB13294,Azidamfenicol
+DB13295,Atracurium
+DB13300,Epicillin
+DB13303,Febarbamate
+DB13304,Triaziquone
+DB13307,Proscillaridin
+DB13310,Ormeloxifene
+DB13312,Delapril
+DB13313,Melevodopa
+DB13314,Alminoprofen
+DB13316,Ibopamine
+DB13317,Flunoxaprofen
+DB13318,Demecolcine
+DB13319,Propenidazole
+DB13320,Sulfaperin
+DB13322,Hydrotalcite
+DB13323,Trichloroethylene
+DB13324,Tetrazepam
+DB13327,Picotamide
+DB13328,Butanilicaine
+DB13331,Pyrithyldione
+DB13334,Mannosulfan
+DB13335,Pinazepam
+DB13337,Pheneticillin
+DB13338,Flurithromycin
+DB13339,Etoglucid
+DB13340,Suloctidil
+DB13341,Fenozolone
+DB13345,Dihydroergocristine
+DB13346,Bufexamac
+DB13347,Diphenadione
+DB13349,Talastine
+DB13350,Azanidazole
+DB13351,Piperidolate
+DB13352,Deanol
+DB13354,Phenprobamate
+DB13357,Styramate
+DB13358,Cibenzoline
+DB13359,Magnesium aspartate
+DB13360,Tolciclate
+DB13362,Pheneturide
+DB13364,Feprazone
+DB13365,Calcium lactate gluconate
+DB13367,Cloricromen
+DB13368,Motretinide
+DB13369,Benzilone
+DB13370,Bromisoval
+DB13371,Difenpiramide
+DB13374,Vincamine
+DB13375,Edrecolomab
+DB13377,Vinbarbital
+DB13378,Norfenefrine
+DB13380,Difemerine
+DB13381,Sodium feredetate
+DB13382,Chlorproethazine
+DB13384,Melitracen
+DB13385,Dihydroergocryptine
+DB13386,Epimestrol
+DB13393,Emetine
+DB13394,Adrenalone
+DB13396,Neocitrullamon
+DB13398,Oxyfedrine
+DB13399,Terguride
+DB13400,Linsidomine
+DB13401,Metildigoxin
+DB13402,Acetylglycinamide chloral hydrate
+DB13403,Oxypertine
+DB13405,Mefruside
+DB13406,Carbutamide
+DB13407,Nifenazone
+DB13408,Methylpropylpropanediol dinitrate
+DB13409,Rokitamycin
+DB13410,Guanoxabenz
+DB13411,Lofepramine
+DB13413,Phenglutarimide
+DB13414,Fenyramidol
+DB13418,Moxestrol
+DB13420,Thiazinam
+DB13422,Nicofuranose
+DB13423,Ferric hydroxide
+DB13425,Flutrimazole
+DB13429,Tolonidine
+DB13430,Mebutizide
+DB13432,Lonazolac
+DB13433,Simfibrate
+DB13434,Fenticonazole
+DB13435,Endralazine
+DB13437,Medazepam
+DB13443,Esatenolol
+DB13446,Guar gum
+DB13448,Mazaticol
+DB13449,Proxyphylline
+DB13451,Tioclomarol
+DB13452,Cadralazine
+DB13453,Xenon
+DB13454,Nicomorphine
+DB13455,Phenibut
+DB13456,Midecamycin
+DB13457,Oxaflozane
+DB13459,Pecilocin
+DB13460,Ronifibrate
+DB13461,Cefcapene
+DB13464,Ornipressin
+DB13466,Deptropine
+DB13467,Lanatoside C
+DB13468,Etybenzatropine
+DB13470,Cefodizime
+DB13472,Cyclofenil
+DB13478,Meptazinol
+DB13479,Histapyrrodine
+DB13480,Lentinan
+DB13481,Tenidap
+DB13485,Sulfametomidine
+DB13486,Magnesium peroxide
+DB13488,Bencyclane
+DB13489,Bamipine
+DB13491,Fluperolone
+DB13495,Paraoxon
+DB13496,Iprindole
+DB13499,Cefsulodin
+DB13500,Otilonium
+DB13501,Bendazac
+DB13502,Budipine
+DB13503,Tyrothricin
+DB13504,Cefetamet
+DB13505,Emepronium
+DB13506,Carfecillin
+DB13507,Poldine
+DB13508,Cloranolol
+DB13509,Aloxiprin
+DB13510,Buflomedil
+DB13511,Clebopride
+DB13514,Pranoprofen
+DB13517,Angiotensinamide
+DB13520,Metergoline
+DB13522,Mebicar
+DB13523,Veralipride
+DB13524,Propyphenazone
+DB13526,Pentaerithrityl
+DB13527,Proglumetacin
+DB13528,Chlormadinone
+DB13530,Mepindolol
+DB13532,Cyclopenthiazide
+DB13533,Methylestrenolone
+DB13534,Gedocarnil
+DB13535,Nebacumab
+DB13537,Gitoformate
+DB13538,Guacetisal
+DB13540,Isepamicin
+DB13541,Iprazochrome
+DB13542,Bevonium
+DB13543,Mitobronitol
+DB13544,Ethenzamide
+DB13545,Isobromindione
+DB13546,Nizofenone
+DB13547,Sulfatolamide
+DB13550,Bifemelane
+DB13551,Cinchophen
+DB13552,Trifluperidol
+DB13554,Moperone
+DB13555,Prajmaline
+DB13556,Sulfamazone
+DB13557,Thiopropazate
+DB13559,Rimiterol
+DB13563,Norgestrienone
+DB13566,Sequifenadine
+DB13569,Ferrous chloride
+DB13571,Pentamycin
+DB13572,Emylcamate
+DB13573,Acefylline
+DB13575,Bietaserpine
+DB13577,Allobarbital
+DB13578,Metabutethamine
+DB13580,Succinylsulfathiazole
+DB13581,Rociverine
+DB13583,Mephenesin
+DB13584,Gallamine
+DB13587,Mesterolone
+DB13588,Naftidrofuryl
+DB13590,Calcium pangamate
+DB13592,Etamiphylline
+DB13595,Almasilate
+DB13597,Moroxydine
+DB13598,Diethyl ether
+DB13601,Oxiracetam
+DB13602,Promegestone
+DB13603,Pyrrolnitrin
+DB13604,Guanazodine
+DB13605,Phenoperidine
+DB13606,Phenazocine
+DB13609,Umifenovir
+DB13610,Flumedroxone
+DB13612,Carbaspirin calcium
+DB13615,Mifamurtide
+DB13616,Melagatran
+DB13617,Clorexolone
+DB13619,Bornaprine
+DB13620,Potassium gluconate
+DB13622,Selenium (75Se) norcholesterol
+DB13623,Fabomotizole
+DB13624,Methoxyphenamine
+DB13626,Aluminium glycinate
+DB13627,Oxolinic acid
+DB13629,Mofebutazone
+DB13631,Methoserpidine
+DB13633,Mepartricin
+DB13634,Pentifylline
+DB13635,Tiracizine
+DB13636,Etanautine
+DB13637,Tenitramine
+DB13638,Cefbuperazone
+DB13641,Metisazone
+DB13642,Pridinol
+DB13643,Loprazolam
+DB13644,Methylthiouracil
+DB13645,Ethacizine
+DB13646,Saruplase
+DB13647,Semustine
+DB13648,Alcuronium
+DB13649,Proquazone
+DB13650,Aloglutamol
+DB13651,Lorajmine
+DB13652,Bunaftine
+DB13653,Lorcainide
+DB13654,Montmorillonite
+DB13657,Benorilate
+DB13660,Propicillin
+DB13662,Hexapropymate
+DB13663,Clofenamide
+DB13664,Formocortal
+DB13665,Fluanisone
+DB13666,Tiemonium iodide
+DB13667,Cefozopran
+DB13668,Ipidacrine
+DB13673,Bekanamycin
+DB13675,Metahexamide
+DB13676,Mosapramine
+DB13677,Carboquone
+DB13678,Dihexyverine
+DB13679,Dexchlorpheniramine
+DB13681,Butalamine
+DB13682,Cefpirome
+DB13683,Quinisocaine
+DB13684,Omoconazole
+DB13685,Quingestanol
+DB13686,Clometocillin
+DB13687,Niaprazine
+DB13689,Tacalcitol
+DB13690,Vinyl ether
+DB13691,Acetyldigoxin
+DB13692,Tretoquinol
+DB13693,Sulbenicillin
+DB13694,Distigmine
+DB13695,Penthienate
+DB13699,Sulfathiourea
+DB13703,Gepefrine
+DB13704,Pristinamycin
+DB13705,Decamethoxine
+DB13707,Sodium tartrate
+DB13708,Fenquizone
+DB13710,Metenolone
+DB13711,Tritoqualine
+DB13713,Quifenadine
+DB13715,Dilazep
+DB13718,Hydroquinine
+DB13719,Trolnitrate
+DB13720,Diphemanil
+DB13722,Pirprofen
+DB13724,Nifuratel
+DB13725,Terodiline
+DB13726,Sulfaguanidine
+DB13728,Halometasone
+DB13729,Camostat
+DB13733,Methylpentynol
+DB13735,Potassium Guaiacolsulfonate
+DB13737,Cyclobarbital
+DB13738,Camylofin
+DB13739,Penamecillin
+DB13742,Elcatonin
+DB13743,Sodium aurotiosulfate
+DB13744,Piromidic acid
+DB13745,Fazadinium bromide
+DB13746,Bioallethrin
+DB13749,Magnesium gluconate
+DB13751,Glycyrrhizic acid
+DB13753,Cetiedil
+DB13754,Mephenoxalone
+DB13756,Peruvoside
+DB13757,Epanolol
+DB13759,Fenpiverinium
+DB13760,Niperotidine
+DB13762,Dexrabeprazole
+DB13766,Lidoflazine
+DB13767,Vorozole
+DB13769,Emetonium iodide
+DB13770,Vinylbital
+DB13772,Rufloxacin
+DB13773,Sulfamethoxypyridazine
+DB13775,Tertatolol
+DB13776,Ibacitabine
+DB13777,Prenalterol
+DB13778,Cefazedone
+DB13779,Guanoclor
+DB13780,Aluminium clofibrate
+DB13781,Xamoterol
+DB13782,Imipramine oxide
+DB13783,Acemetacin
+DB13784,Dixyrazine
+DB13786,Magnesium orotate
+DB13787,Tilidine
+DB13791,Penfluridol
+DB13792,Clopamide
+DB13793,Vinburnine
+DB13795,Brodimoprim
+DB13798,Demoxytocin
+DB13799,Ethadione
+DB13800,Calcium levulinate
+DB13801,Muzolimine
+DB13803,Xipamide
+DB13804,Benzylthiouracil
+DB13805,Reposal
+DB13807,Tisopurine
+DB13808,Mebhydrolin
+DB13809,Paclitaxel poliglumex
+DB13811,Oblimersen
+DB13812,Bufylline
+DB13814,Talampicillin
+DB13816,Aspoxicillin
+DB13817,Carbromal
+DB13820,Oxomemazine
+DB13821,Ceftezole
+DB13823,Pipemidic acid
+DB13824,Enprostil
+DB13829,Calcium silicate
+DB13831,Potassium permanganate
+DB13832,Ranimustine
+DB13835,Caroverine
+DB13836,Metampicillin
+DB13837,Doxefazepam
+DB13840,Hydroxyethylpromethazine
+DB13841,Clopenthixol
+DB13843,Cloprednol
+DB13844,Pipenzolate
+DB13845,Etafenone
+DB13846,Pyrrobutamine
+DB13848,Fluorodopa (18F)
+DB13849,Clofibride
+DB13850,Timepidium
+DB13851,Artemotil
+DB13852,Mefenorex
+DB13854,Gamolenic acid
+DB13856,Fluclorolone
+DB13857,Demegestone
+DB13860,Imidazole salicylate
+DB13862,Magnesium phosphate
+DB13863,Fosfructose
+DB13866,Etynodiol
+DB13867,Fluticasone
+DB13868,Adefovir
+DB13871,Albendazole oxide
+DB13872,Lormetazepam
+DB13873,Fenofibric acid
+DB13874,Enasidenib
+DB13875,Harmaline
+DB13876,Brofaromine
+DB13877,Iniparib
+DB13878,Pibrentasvir
+DB13879,Glecaprevir
+DB13884,Albutrepenonacog alfa
+DB13886,Human cytomegalovirus immune globulin
+DB13896,Talimogene laherparepvec
+DB13909,Bismuth subgallate
+DB13910,Valproate bismuth
+DB13912,Coumermycin A1
+DB13916,Toyocamycin
+DB13917,Deoxyepinephrine
+DB13919,Candesartan
+DB13923,Emicizumab
+DB13924,Varicella Zoster Vaccine (Recombinant)
+DB13925,Dotatate gallium Ga-68
+DB13928,Semaglutide
+DB13929,Relcovaptan
+DB13933,Nonacog beta pegol
+DB13940,"2,5-Dimethoxy-4-ethylthioamphetamine"
+DB13941,Piperaquine
+DB13943,Testosterone cypionate
+DB13944,Testosterone enanthate
+DB13946,Testosterone undecanoate
+DB13947,Testosterone enantate benzilic acid hydrazone
+DB13948,"N-(2-hydroxybenzyl)-2,5-dimethoxy-4-cyanophenylethylamine"
+DB13949,Ferric cation
+DB13950,WIN 55212-2
+DB13951,Stanolone acetate
+DB13952,Estradiol acetate
+DB13953,Estradiol benzoate
+DB13954,Estradiol cypionate
+DB13955,Estradiol dienanthate
+DB13956,Estradiol valerate
+DB13958,Trestolone acetate
+DB13961,Fish oil
+DB13967,Patent Blue
+DB13975,Black cohosh
+DB13976,Sulesomab
+DB13977,Potassium carbonate
+DB13979,Besilesomab
+DB13981,Nomegestrol acetate
+DB13984,Cyclopropane
+DB13985,Lutetium Lu 177 dotatate
+DB13989,Epitizide
+DB13993,MRK-409
+DB13995,Ferric pyrophosphate citrate
+DB13996,Magnesium acetate
+DB13997,Baloxavir marboxil
+DB13999,Moroctocog alfa
+DB14001,alpha-Tocopherol succinate
+DB14002,D-alpha-Tocopherol acetate
+DB14003,alpha-Tocopherol acetate
+DB14004,Tildrakizumab
+DB14006,Choline salicylate
+DB14007,Pentetic acid
+DB14009,Medical Cannabis
+DB14010,"5-methoxy-N,N-dimethyltryptamine"
+DB14011,Nabiximols
+DB14012,Burosumab
+DB14015,Sodium bisulfite
+DB14016,Ox bile extract
+DB14018,Bromotheophylline
+DB14019,Fosnetupitant
+DB14022,Typhoid vaccine
+DB14025,Clinafloxacin
+DB14026,Thiosalicylic acid
+DB14027,Taspoglutide
+DB14028,Nordazepam
+DB14029,Furafylline
+DB14031,Tretamine
+DB14033,Acetyl sulfisoxazole
+DB14035,Englitazone
+DB14039,Erenumab
+DB14040,Eptinezumab
+DB14041,Fremanezumab
+DB14042,Galcanezumab
+DB14043,Palmidrol
+DB14048,Sodium zirconium cyclosilicate
+DB14049,Nitrate
+DB14050,Cannabidivarin
+DB14051,Malacidin A
+DB14052,Malacidin B
+DB14055,(S)-Warfarin
+DB14056,Nigericin
+DB14057,Valinomycin
+DB14058,Basifungin
+DB14059,SC-236
+DB14060,NS-398
+DB14063,Dexverapamil
+DB14064,Emopamil
+DB14065,Lomerizine
+DB14066,Tetrandrine
+DB14067,Dofequidar
+DB14068,Dexniguldipine
+DB14069,ONT-093
+DB14071,Desmethylsertraline
+DB14074,Icaridin
+DB14093,"(1,2,6,7-3H)Testosterone"
+DB14094,Tocopherylquinone
+DB14125,Benazeprilat
+DB14126,Tenofovir
+DB14132,8-chlorotheophylline
+DB14184,Cinnamaldehyde
+DB14185,Aripiprazole lauroxil
+DB14186,Cinnamyl alcohol
+DB14193,Ditiocarb zinc
+DB14194,Zinc dibutyldithiocarbamate
+DB14207,Fosinoprilat
+DB14208,Ramiprilat
+DB14209,Trandolaprilat
+DB14210,Moexiprilat
+DB14211,Fanolesomab
+DB14213,Perindoprilat
+DB14217,Quinaprilat
+DB14219,Monomethyl fumarate
+DB14231,Quinoline Yellow WS
+DB14232,Deacetylbisacodyl
+DB14240,Echinacea
+DB14256,Centella asiatica
+DB14337,Salvia miltiorrhiza root
+DB14384,Influenza A virus A/Victoria/210/2009 X-187 (H3N2) hemagglutinin antigen (formaldehyde inactivated)
+DB14385,Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (formaldehyde inactivated)
+DB14394,Influenza A virus A/California/7/2009 (H1N1) live (attenuated) antigen
+DB14409,Human adenovirus e serotype 4 strain cl-68578 antigen
+DB14443,Vibrio cholerae CVD 103-HgR strain live antigen
+DB14445,Influenza A virus A/Victoria/210/2009 X-187 (H3N2) antigen (formaldehyde inactivated)
+DB14449,Influenza A virus A/Perth/16/2009 (H3N2) live (attenuated) antigen
+DB14473,Beroctocog alfa
+DB14476,DL-alpha-Tocopherol
+DB14479,Acetylcysteine zinc
+DB14481,Calcium phosphate dihydrate
+DB14482,Sodium ascorbate
+DB14483,Calcium ascorbate
+DB14484,Magnesium ascorbate
+DB14485,Zinc ascorbate
+DB14486,Niacinamide ascorbate
+DB14487,Zinc acetate
+DB14488,Ferrous gluconate
+DB14489,Ferrous succinate
+DB14490,Ferrous ascorbate
+DB14491,Ferrous fumarate
+DB14492,Potassium triiodide
+DB14493,Zinc glycinate
+DB14498,Potassium acetate
+DB14499,Potassium sulfate
+DB14500,Potassium
+DB14502,"Sodium phosphate, dibasic"
+DB14503,"Sodium phosphate, monobasic, unspecified form"
+DB14504,"Sodium phosphate, dibasic, unspecified form"
+DB14506,Lithium hydroxide
+DB14507,Lithium citrate
+DB14509,Lithium carbonate
+DB14512,Mometasone furoate
+DB14513,Magnesium
+DB14514,Magnesium levulinate
+DB14515,Magnesium lactate
+DB14516,Sodium cation
+DB14517,Aluminium phosphate
+DB14519,Aluminum cation
+DB14520,Tetraferric tricitrate decahydrate
+DB14521,Silver cation
+DB14523,Phosphate ion
+DB14526,Chromic citrate
+DB14527,Chromic nitrate
+DB14528,Chromium gluconate
+DB14529,Chromium nicotinate
+DB14530,Chromous sulfate
+DB14533,Zinc chloride
+DB14538,Hydrocortisone aceponate
+DB14539,Hydrocortisone acetate
+DB14540,Hydrocortisone butyrate
+DB14541,Hydrocortisone cypionate
+DB14542,Hydrocortisone phosphate
+DB14543,Hydrocortisone probutate
+DB14544,Hydrocortisone valerate
+DB14545,Hydrocortisone succinate
+DB14546,Sulfate ion
+DB14547,Chloride ion
+DB14548,"Zinc sulfate, unspecified form"
+DB14562,Andexanet alfa
+DB14568,Ivosidenib
+DB14569,Tedizolid
+DB14570,Hydroxyprogesterone
+DB14575,Eslicarbazepine
+DB14577,Calcium cation
+DB14579,Lanthanum III cation
+DB14580,Lecanemab
+DB14583,Segesterone acetate
+DB14585,Plantago ovata seed
+DB00873,Loteprednol
+DB14597,Lanadelumab
+DB14598,Edetate calcium disodium anhydrous
+DB14600,Edetate disodium anhydrous
+DB14619,Influenza A virus A/Uruguay/716/2007(H3N2) antigen (propiolactone inactivated)
+DB14620,Influenza A virus A/Brisbane/59/2007(H1N1) antigen (propiolactone inactivated)
+DB14627,Oxyphenisatin acetate
+DB14631,Prednisolone phosphate
+DB14633,Prednisolone hemisuccinate
+DB14634,Fluprednidene acetate
+DB14635,Curcumin sulfate
+DB14642,Lypressin
+DB14643,Methylprednisolone aceponate
+DB14644,Methylprednisolone hemisuccinate
+DB14646,Prednisone acetate
+DB14651,Perphenazine enanthate
+DB14652,Clocortolone acetate
+DB14655,Drostanolone propionate
+DB14659,Melengestrol acetate
+DB14669,Betamethasone phosphate
+DB14672,Oxazepam acetate
+DB14678,Norethindrone enanthate
+DB14679,Quingestanol acetate
+DB14680,Combretastatin A4
+DB14681,Cortisone
+DB14684,Calcium polycarbophil
+DB14685,Adenovirus type 7 vaccine live
+DB14695,Ferric oxyhydroxide
+DB14700,Damoctocog alfa pegol
+DB14707,Cemiplimab
+DB14708,Tosylchloramide
+DB14711,Vaccinia virus strain new york city board of health live antigen
+DB14712,Elapegademase
+DB14713,Inotersen
+DB14715,Cinazepam
+DB14718,Pyrazolam
+DB14719,Bentazepam
+DB14723,Larotrectinib
+DB14724,Emapalumab
+DB14725,Cefamandole nafate
+DB14726,Dabigatran
+DB14730,Calaspargase pegol
+DB14731,Tagraxofusp
+DB14733,Ceftobiprole medocaril
+DB14737,Cannabinol
+DB14738,Turoctocog alfa pegol
+DB14740,Hyaluronidase
+DB00781,Polymyxin B
+DB14752,Racephedrine
+DB14754,Solriamfetol
+DB14762,Risankizumab
+DB14763,Cycloguanil
+DB14765,Rivoceranib
+DB14776,Camrelizumab
+DB14777,Murepavadin
+DB14778,Setrusumab
+DB14783,Diroximel fumarate
+DB14784,Gancotamab
+DB14792,AZD-5991
+DB14809,Anetumab ravtansine
+DB14811,Isatuximab
+DB14813,PF-232798
+DB14824,Icrucumab
+DB14843,Codrituzumab
+DB14844,ONC-201
+DB14860,Ensartinib
+DB14864,Brolucizumab
+DB14865,Human interleukin-2
+DB14871,Xentuzumab
+DB14877,Lintuzumab
+DB14891,Vobarilizumab
+DB14897,Parsatuzumab
+DB14905,Emactuzumab
+DB14906,Adafosbuvir
+DB14907,Bevacizumab zirconium Zr-89
+DB14908,Refanezumab
+DB14919,Rozanolixizumab
+DB14930,Alovudine F-18
+DB14936,Menaquinone 6
+DB14938,Flurbiprofen axetil
+DB14947,Bermekimab
+DB14951,Etirinotecan pegol
+DB14952,Pamrevlumab
+DB14959,Opicinumab
+DB14962,Trastuzumab deruxtecan
+DB14963,Konjac mannan
+DB14967,Margetuximab
+DB14975,Voxelotor
+DB14988,Dalantercept
+DB14997,Pateclizumab
+DB14999,Human interferon beta
+DB15014,Gremubamab
+DB15022,Apomab
+DB15035,Zanubrutinib
+DB15044,Tafasitamab
+DB15045,Ipafricept
+DB15051,Ethaselen
+DB15057,NUC-1031
+DB15066,Givosiran
+DB15076,Abrilumab
+DB15089,Frovocimab
+DB15090,Tezepelumab
+DB15091,Upadacitinib
+DB15093,Somapacitan
+DB15095,Leridistim
+DB15101,Tigatuzumab
+DB15104,Telisotuzumab vedotin
+DB15112,Somatropin pegol
+DB15113,Utomilumab
+DB15118,Zolbetuximab
+DB15119,Ropeginterferon alfa-2b
+DB15120,GSK-239512
+DB15122,PCS-499
+DB15130,Dexpramipexole
+DB15131,Interferon alfa-2c
+DB15135,Ponezumab
+DB15157,Voruciclib
+DB15160,Asunercept
+DB15167,Fallypride
+DB15171,Tirzepatide
+DB15172,Suvratoxumab
+DB15192,ABT-288
+DB15193,BMS-955176
+DB15197,RSV-604
+DB15203,JNJ-26489112
+DB15206,Uprifosbuvir
+DB15213,25-desacetylrifapentine
+DB15215,KRN-5500
+DB15217,Gastric inhibitory polypeptide
+DB15225,Mitazalimab
+DB15233,Avapritinib
+DB15245,Olorofim
+DB15246,Salvianolic acid A
+DB15252,Nemolizumab
+DB15253,Bleselumab
+DB15263,Thyrotropin
+DB15274,Pertussis vaccine
+DB15277,Gedivumab
+DB15289,Perillyl alcohol
+DB15290,Pegteograstim
+DB15300,Hydroquinidine
+DB15317,Posiphen
+DB15321,Tefinostat
+DB15328,Ubrogepant
+DB15332,Radavirsen
+DB15334,Biochanin A
+DB15335,Formononetin
+DB15336,Valanafusp alfa
+DB15349,Sofituzumab vedotin
+DB15354,Evinacumab
+DB15357,Xanomeline
+DB15360,"Carfentanil, C-11"
+DB15363,Istiratumab
+DB15366,SOR-C13
+DB15381,Menaquinone
+DB15383,Pidilizumab
+DB15394,gamma-Tocopherol
+DB15397,GMA-161
+DB15409,Ladiratuzumab vedotin
+DB15415,Tomaralimab
+DB15419,Nanatinostat
+DB15427,Fialuridine
+DB15428,Vesencumab
+DB15432,Pinatuzumab vedotin
+DB15441,Lulizumab pegol
+DB15443,Lorukafusp alfa
+DB15444,Elexacaftor
+DB15445,Iodohippuric acid
+DB15453,Naratuximab emtansine
+DB15461,Yersinia pestis 195/p antigen (formaldehyde inactivated)
+DB15465,Benzhydrocodone
+DB15466,Tallimustine
+DB15477,Alloin
+DB15478,Frangula purshiana bark
+DB15483,Modified vaccinia ankara
+DB15488,Echinacoside
+DB15492,Eticlopride
+DB15494,Edotreotide gallium Ga-68
+DB15528,Onasemnogene abeparvovec
+DB15559,Zenocutuzumab
+DB15565,Cilazaprilat
+DB15566,Prednisolone acetate
+DB15593,Golodirsen
+DB15595,"Ebola Zaire vaccine (live, attenuated)"
+DB15598,Ferric maltol
+DB15617,Ferric derisomaltose
+DB15623,TMC-310911
+DB15657,Ala-geninthiocin
+DB05697,AP 12009
+DB06517,MLN576
+DB15351,Dihematoporphyrin ether
