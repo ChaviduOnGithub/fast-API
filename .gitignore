@@ -8,10 +8,6 @@ __pycache__/
 *.ipynb
 .ipynb_checkpoints/
 
-# Model artifacts
-artifacts_latest/
-data/
-
 # Environment
 .env
 venv/
