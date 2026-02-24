@@ -2,9 +2,6 @@ import torch
 import pandas as pd
 from models import EdgeDecoder
 import os
-from rdkit import Chem
-from rdkit.Chem import Descriptors, AllChem
-from rdkit.DataStructs import TanimotoSimilarity
 import numpy as np
 
 DEVICE = torch.device("cpu")
@@ -43,22 +40,8 @@ def get_available_drugs() -> list:
             }
     return list(drugs_dict.values())
 def _extract_molecular_properties(smiles: str) -> dict:
-    if not smiles or not isinstance(smiles, str):
-        return {"molecular_weight": 0, "num_atoms": 0, "num_bonds": 0, "logp": 0, "num_h_donors": 0, "num_h_acceptors": 0}
-    try:
-        mol = Chem.MolFromSmiles(smiles)
-        if mol is None:
-            return {"molecular_weight": 0, "num_atoms": 0, "num_bonds": 0, "logp": 0, "num_h_donors": 0, "num_h_acceptors": 0}
-        return {
-            "molecular_weight": round(Descriptors.MolWt(mol), 2),
-            "num_atoms": mol.GetNumAtoms(),
-            "num_bonds": mol.GetNumBonds(),
-            "logp": round(Descriptors.MolLogP(mol), 2),
-            "num_h_donors": Descriptors.NumHDonors(mol),
-            "num_h_acceptors": Descriptors.NumHAcceptors(mol)
-        }
-    except Exception:
-        return {"molecular_weight": 0, "num_atoms": 0, "num_bonds": 0, "logp": 0, "num_h_donors": 0, "num_h_acceptors": 0}
+    # RDKit removed: return dummy values
+    return {"molecular_weight": 0, "num_atoms": 0, "num_bonds": 0, "logp": 0, "num_h_donors": 0, "num_h_acceptors": 0}
 def _calculate_embedding_similarity(emb_a: torch.Tensor, emb_b: torch.Tensor) -> float:
     emb_a_norm = torch.nn.functional.normalize(emb_a, p=2, dim=-1)
     emb_b_norm = torch.nn.functional.normalize(emb_b, p=2, dim=-1)
@@ -95,20 +78,9 @@ def predict(drug_a: str, drug_b: str) -> dict:
     if drug_a not in drug_to_node or drug_b not in drug_to_node:
         smiles_a = _safe_smiles(smiles_dict.get(drug_a, ""))
         smiles_b = _safe_smiles(smiles_dict.get(drug_b, ""))
-        try:
-            mol_a = Chem.MolFromSmiles(smiles_a) if smiles_a else None
-            mol_b = Chem.MolFromSmiles(smiles_b) if smiles_b else None
-            if mol_a and mol_b:
-                fp_a = AllChem.GetMorganFingerprintAsBitVect(mol_a, 2, nBits=1024)
-                fp_b = AllChem.GetMorganFingerprintAsBitVect(mol_b, 2, nBits=1024)
-                similarity = TanimotoSimilarity(fp_a, fp_b)
-                probability = similarity * 0.5
-            else:
-                similarity = 0.0
-                probability = 0.0
-        except Exception:
-            similarity = 0.0
-            probability = 0.0
+        # RDKit removed: return dummy similarity and probability
+        similarity = 0.0
+        probability = 0.0
         props_a = _extract_molecular_properties(smiles_a)
         props_b = _extract_molecular_properties(smiles_b)
         return {

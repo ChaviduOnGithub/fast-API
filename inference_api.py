@@ -50,11 +50,10 @@ def get_drugs():
     return drugs
 
 def _validate_smiles(smiles: str) -> bool:
+    # Placeholder: always return True since RDKit is removed
     if not smiles or not isinstance(smiles, str):
         return False
-    from rdkit import Chem
-    mol = Chem.MolFromSmiles(smiles)
-    return mol is not None
+    return True
 
 @app.post("/add-drug")
 def add_drug(req: AddDrugRequest):
