@@ -93,14 +93,7 @@ def predict(drug_a: str, drug_b: str) -> dict:
             "drug_a_neighbors": [],
             "drug_b_neighbors": []
         }
-    try:
-        import torch_geometric
-        from ogb.linkproppred import PygLinkPropPredDataset
-        dataset = PygLinkPropPredDataset(name="ogbl-ddi")
-        data = dataset[0]
-        edge_index = data.edge_index.cpu()
-    except Exception:
-        edge_index = None
+    # Removed OGB dataset loading and edge_index logic; only using precomputed artifacts
     i = drug_to_node[drug_a]
     j = drug_to_node[drug_b]
     z_i = node_embeddings[i].unsqueeze(0)
@@ -117,20 +110,11 @@ def predict(drug_a: str, drug_b: str) -> dict:
     smiles_b = _safe_smiles(smiles_dict.get(drug_b, ""))
     props_a = _extract_molecular_properties(smiles_a)
     props_b = _extract_molecular_properties(smiles_b)
-    neighbors_a = []
-    neighbors_b = []
-    if edge_index is not None:
-        neighbors_a = _get_neighbors(i, edge_index)
-        neighbors_b = _get_neighbors(j, edge_index)
-        neighbors_a = [node_to_drug.get(idx, str(idx)) for idx in neighbors_a]
-        neighbors_b = [node_to_drug.get(idx, str(idx)) for idx in neighbors_b]
     return {
         "probability": round(probability, 4),
         "embedding_similarity": emb_similarity,
         "drug_a_properties": props_a,
         "drug_b_properties": props_b,
         "drug_a_smiles": smiles_a,
-        "drug_b_smiles": smiles_b,
-        "drug_a_neighbors": neighbors_a,
-        "drug_b_neighbors": neighbors_b
+        "drug_b_smiles": smiles_b
     }
