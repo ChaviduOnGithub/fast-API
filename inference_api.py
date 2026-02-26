@@ -8,25 +8,7 @@ class DDIRequest(BaseModel):
     drugA: str
     drugB: str
 
-class MolecularProperties(BaseModel):
-    molecular_weight: float
-    num_atoms: int
-    num_bonds: int
-    logp: float
-    num_h_donors: int
-    num_h_acceptors: int
-
-class DDIResponse(BaseModel):
-    drugA: str
-    drugB: str
-    probability: float
-    risk: str
-    embedding_similarity: float
-    drug_a_properties: MolecularProperties
-    drug_b_properties: MolecularProperties
-    drug_a_smiles: str
-    drug_b_smiles: str
-    # Neighbors removed from response
+    # Removed strict property models; response will be generic dict
 
 class DrugInfo(BaseModel):
     drugId: str
@@ -73,10 +55,26 @@ def add_drug(req: AddDrugRequest):
     drugid_to_name[new_id] = req.name
     return {"drugId": new_id, "name": req.name, "smiles": req.smiles}
 
-@app.post("/predict", response_model=DDIResponse)
+@app.post("/predict")
 def predict_ddi(req: DDIRequest):
     try:
-        result = predict(req.drugA, req.drugB)
+        result = predict(req.drugA, req.drugB, include_properties=False)
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    return {
+        "drugA": req.drugA,
+        "drugB": req.drugB,
+        "probability": result["probability"],
+        "risk": risk_label(result["probability"]),
+        "embedding_similarity": result["embedding_similarity"],
+        "drug_a_smiles": result["drug_a_smiles"],
+        "drug_b_smiles": result["drug_b_smiles"],
+    }
+
+@app.post("/predict/extended")
+def predict_ddi_extended(req: DDIRequest):
+    try:
+        result = predict(req.drugA, req.drugB, include_properties=True)
     except ValueError as e:
         raise HTTPException(status_code=404, detail=str(e))
     from model_loader import drugid_to_name
@@ -94,5 +92,4 @@ def predict_ddi(req: DDIRequest):
         "drug_b_properties": result["drug_b_properties"],
         "drug_a_smiles": result["drug_a_smiles"],
         "drug_b_smiles": result["drug_b_smiles"],
-        # Neighbors removed from response
     }

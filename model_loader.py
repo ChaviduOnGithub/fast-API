@@ -3,6 +3,7 @@ import pandas as pd
 from models import EdgeDecoder
 import os
 import numpy as np
+import requests
 
 DEVICE = torch.device("cpu")
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -40,8 +41,118 @@ def get_available_drugs() -> list:
             }
     return list(drugs_dict.values())
 def _extract_molecular_properties(smiles: str) -> dict:
-    # RDKit removed: return dummy values
-    return {"molecular_weight": 0, "num_atoms": 0, "num_bonds": 0, "logp": 0, "num_h_donors": 0, "num_h_acceptors": 0}
+    import logging
+    import xml.etree.ElementTree as ET
+    if not smiles:
+        logging.warning("No SMILES provided for property extraction.")
+        return {}
+    # Step 1: Get CID from PubChem
+    cid_url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/{smiles}/cids/JSON"
+    try:
+        cid_resp = requests.get(cid_url, timeout=5)
+        cid_resp.raise_for_status()
+        cid_data = cid_resp.json()
+        cids = cid_data.get("IdentifierList", {}).get("CID", [])
+        if not cids:
+            logging.warning(f"PubChem could not find CID for SMILES: {smiles}")
+            return {}
+        cid = cids[0]
+    except Exception as e:
+        logging.error(f"PubChem CID lookup failed for SMILES: {smiles} | Error: {e}")
+        return {}
+    # Step 2: Try JSON compound endpoint
+    compound_url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/record/JSON"
+    try:
+        compound_resp = requests.get(compound_url, timeout=5)
+        compound_resp.raise_for_status()
+        compound_data = compound_resp.json()
+        props = {}
+        
+        # Extract from PC_Compounds[0]
+        if "PC_Compounds" in compound_data and len(compound_data["PC_Compounds"]) > 0:
+            compound = compound_data["PC_Compounds"][0]
+            
+            # Extract compound properties
+            if "props" in compound:
+                for prop in compound["props"]:
+                    if "urn" in prop and "value" in prop:
+                        key = prop["urn"].get("label", "Unknown")
+                        val = prop["value"]
+                        # Extract value from nested structure
+                        if isinstance(val, dict):
+                            if "sval" in val:
+                                props[key] = val["sval"]
+                            elif "ival" in val:
+                                props[key] = val["ival"]
+                            elif "fval" in val:
+                                props[key] = val["fval"]
+                        else:
+                            props[key] = val
+            
+            logging.info(f"Extracted {len(props)} properties from JSON for CID: {cid}")
+            if props:
+                return props
+    except Exception as e:
+        logging.warning(f"PubChem JSON compound lookup failed for CID: {cid} | Error: {e}")
+    # Step 3: Fallback to XML endpoint
+    prop_url_xml = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/XML"
+    try:
+        xml_resp = requests.get(prop_url_xml, timeout=5)
+        xml_resp.raise_for_status()
+        xml_root = ET.fromstring(xml_resp.content)
+        props = {}
+        
+        # Handle namespaces
+        ns = {'pc': 'http://www.ncbi.nlm.nih.gov/pug'}
+        
+        # Find PC-Compound (with or without namespace)
+        compound = xml_root.find(".//pc:PC-Compound", ns)
+        if compound is None:
+            compound = xml_root.find(".//PC-Compound")
+        
+        if compound is not None:
+            # Look for compound properties
+            props_elem = compound.find(".//pc:PC-Compound_props", ns)
+            if props_elem is None:
+                props_elem = compound.find(".//PC-Compound_props")
+            
+            if props_elem is not None:
+                # Find all properties
+                prop_list = props_elem.findall(".//pc:PC-CompoundProperty", ns)
+                if not prop_list:
+                    prop_list = props_elem.findall(".//PC-CompoundProperty")
+                
+                for prop in prop_list:
+                    # Get property urn/label
+                    urn = prop.find(".//pc:PC-Urn_label", ns)
+                    if urn is None:
+                        urn = prop.find(".//PC-Urn_label")
+                    
+                    # Get property value
+                    value = prop.find(".//pc:PC-InfoData_value_sval", ns)
+                    if value is None:
+                        value = prop.find(".//PC-InfoData_value_sval")
+                    if value is None:
+                        value = prop.find(".//pc:PC-InfoData_value_ival", ns)
+                    if value is None:
+                        value = prop.find(".//PC-InfoData_value_ival")
+                    if value is None:
+                        value = prop.find(".//pc:PC-InfoData_value_fval", ns)
+                    if value is None:
+                        value = prop.find(".//PC-InfoData_value_fval")
+                    
+                    if urn is not None and value is not None and urn.text:
+                        props[urn.text] = value.text
+        
+        if props:
+            logging.info(f"Extracted {len(props)} properties from XML for CID: {cid}")
+            return props
+        else:
+            logging.warning(f"No properties found in XML for CID: {cid}")
+            return {}
+    except Exception as e:
+        logging.error(f"PubChem XML property lookup failed for CID: {cid} | Error: {e}")
+        return {}
 def _calculate_embedding_similarity(emb_a: torch.Tensor, emb_b: torch.Tensor) -> float:
     emb_a_norm = torch.nn.functional.normalize(emb_a, p=2, dim=-1)
     emb_b_norm = torch.nn.functional.normalize(emb_b, p=2, dim=-1)
@@ -58,7 +169,7 @@ def _safe_smiles(val):
     if val.lower() == "nan":
         return ""
     return val
-def predict(drug_a: str, drug_b: str) -> dict:
+def predict(drug_a: str, drug_b: str, include_properties: bool = True) -> dict:
     def resolve_drug_id(drug_input: str) -> str:
         if drug_input in smiles_dict or drug_input in drug_to_node:
             return drug_input
@@ -81,8 +192,8 @@ def predict(drug_a: str, drug_b: str) -> dict:
         # RDKit removed: return dummy similarity and probability
         similarity = 0.0
         probability = 0.0
-        props_a = _extract_molecular_properties(smiles_a)
-        props_b = _extract_molecular_properties(smiles_b)
+        props_a = _extract_molecular_properties(smiles_a) if include_properties else {}
+        props_b = _extract_molecular_properties(smiles_b) if include_properties else {}
         return {
             "probability": max(0.0, min(1.0, probability)),
             "embedding_similarity": similarity,
@@ -106,8 +217,8 @@ def predict(drug_a: str, drug_b: str) -> dict:
     emb_similarity = _calculate_embedding_similarity(z_i, z_j)
     smiles_a = _safe_smiles(smiles_dict.get(drug_a, ""))
     smiles_b = _safe_smiles(smiles_dict.get(drug_b, ""))
-    props_a = _extract_molecular_properties(smiles_a)
-    props_b = _extract_molecular_properties(smiles_b)
+    props_a = _extract_molecular_properties(smiles_a) if include_properties else {}
+    props_b = _extract_molecular_properties(smiles_b) if include_properties else {}
     return {
         "probability": round(probability, 4),
         "embedding_similarity": emb_similarity,
