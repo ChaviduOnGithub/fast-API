@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, status
 from pydantic import BaseModel
 from model_loader import predict, get_available_drugs
 
@@ -7,8 +7,6 @@ app = FastAPI(title="DDI Graph Model API")
 class DDIRequest(BaseModel):
     drugA: str
     drugB: str
-
-    # Removed strict property models; response will be generic dict
 
 class DrugInfo(BaseModel):
     drugId: str
@@ -25,13 +23,22 @@ def risk_label(p: float) -> str:
         return "Medium"
     return "High"
 
+# 1. Lightweight health-check endpoint (Use this for Render keep-alive)
+@app.get(
+    "/health", 
+    tags=["Health"], 
+    summary="Perform a Health Check", 
+    status_code=status.HTTP_200_OK
+)
+def health_check():
+    return {"status": "healthy"}
+
 @app.get("/drugs", response_model=list[DrugInfo])
 def get_drugs():
     drugs = get_available_drugs()
     return drugs
 
 def _validate_smiles(smiles: str) -> bool:
-    # Placeholder: always return True since RDKit is removed
     if not smiles or not isinstance(smiles, str):
         return False
     return True
