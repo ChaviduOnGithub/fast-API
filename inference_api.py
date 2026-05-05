@@ -190,7 +190,11 @@ def predict_xml(req: DDIRequest):
 
 @app.get("/test-report", tags=["Health"], summary="Run test suite and return results")
 def test_report():
-    import pytest
+    try:
+        import pytest
+    except ImportError:
+        from fastapi.responses import JSONResponse
+        return JSONResponse(status_code=500, content={"status": "error", "detail": "pytest is not installed"})
 
     class _Collector:
         def __init__(self):
@@ -215,10 +219,19 @@ def test_report():
 
     collector = _Collector()
     tests_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "tests")
-    exit_code = pytest.main(
-        [tests_dir, "--tb=short", "-q", "--no-header", "-p", "no:cacheprovider"],
-        plugins=[collector]
-    )
+
+    if not os.path.isdir(tests_dir):
+        from fastapi.responses import JSONResponse
+        return JSONResponse(status_code=500, content={"status": "error", "detail": f"tests directory not found: {tests_dir}"})
+
+    try:
+        exit_code = pytest.main(
+            [tests_dir, "--tb=short", "-q", "--no-header", "-p", "no:cacheprovider"],
+            plugins=[collector]
+        )
+    except Exception as e:
+        from fastapi.responses import JSONResponse
+        return JSONResponse(status_code=500, content={"status": "error", "detail": str(e)})
 
     total = len(collector.passed) + len(collector.failed) + len(collector.errors)
     from fastapi.responses import JSONResponse

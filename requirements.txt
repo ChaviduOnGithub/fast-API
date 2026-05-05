@@ -17,3 +17,5 @@ jupyter>=1.0.0
 ipykernel>=6.25.0
 pubchempy>=1.0.4
 dicttoxml>=1.7.16
+pytest>=9.0.0
+httpx>=0.24.0
